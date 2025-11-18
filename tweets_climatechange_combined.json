@@ -20967,5 +20967,6410 @@
     },
     "id": "1988890154417709418",
     "text": "Climate Leader &amp; Warrior \ud83d\udc9a\n\n#PunjabForPlanet\n#MaryamNawazAtCOP30 https://t.co/am0ZGJXEYr https://t.co/j8gPg58nwh"
+  },
+  {
+    "conversation_id": "1990108870950154313",
+    "entities": {
+      "mentions": [
+        {
+          "start": 178,
+          "end": 184,
+          "username": "POTUS",
+          "id": "1879650942410481666"
+        },
+        {
+          "start": 230,
+          "end": 246,
+          "username": "RohitMishra2024",
+          "id": "1739178205494542336"
+        }
+      ],
+      "urls": [
+        {
+          "start": 247,
+          "end": 270,
+          "url": "https://t.co/szmeBnLazf",
+          "expanded_url": "https://x.com/Tboo211/status/1990108870950154313/photo/1",
+          "display_url": "pic.x.com/szmeBnLazf",
+          "media_key": "3_1990108865694748672"
+        },
+        {
+          "start": 271,
+          "end": 294,
+          "url": "https://t.co/XvKbcItkZp",
+          "expanded_url": "https://twitter.com/tboo211/status/1989671842563739900",
+          "display_url": "x.com/tboo211/status\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 45,
+          "end": 65,
+          "probability": 0.798,
+          "type": "Other",
+          "normalized_text": "The New Climate Order"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989671842563739900"
+      }
+    ],
+    "created_at": "2025-11-16T17:25:03.000Z",
+    "public_metrics": {
+      "retweet_count": 436,
+      "reply_count": 28,
+      "like_count": 576,
+      "quote_count": 13,
+      "bookmark_count": 42,
+      "impression_count": 23195
+    },
+    "id": "1990108870950154313",
+    "author_id": "1517852620534255617",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990108870950154313"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990108865694748672"
+      ]
+    },
+    "text": "1.6M people shared this post today trending \u201cThe New Climate Order\u201d. Keep it going around the world. We are not going to be quiet any longer. We will get louder and louder until @POTUS and the Administration hears us ! Well done \ud83d\udcaa@RohitMishra2024 https://t.co/szmeBnLazf https://t.co/XvKbcItkZp"
+  },
+  {
+    "conversation_id": "1990111416628412566",
+    "entities": {
+      "mentions": [
+        {
+          "start": 76,
+          "end": 81,
+          "username": "UNEP",
+          "id": "38146999"
+        },
+        {
+          "start": 103,
+          "end": 118,
+          "username": "andersen_inger",
+          "id": "2409488466"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 245,
+          "end": 258,
+          "tag": "EmissionsGap"
+        }
+      ],
+      "urls": [
+        {
+          "start": 218,
+          "end": 241,
+          "url": "https://t.co/GGi1NWXRd9",
+          "expanded_url": "https://unep.org/news-and-stories/press-release/new-climate-pledges-only-slightly-lower-dangerous-global-warming",
+          "display_url": "unep.org/news-and-stori\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1988864516344475648/XXx9KQ2b?format=jpg&name=orig",
+              "width": 1400,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1988864516344475648/XXx9KQ2b?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "New climate pledges only slightly lower dangerous global warming projections",
+          "description": "UNEP\u2019s\u00a0Emissions Gap Report 2025: Off Target finds that global warming projections over this century, based on full implementation of Nationally Determined Contributions (NDCs), are now 2.3-2.5\u00b0C, compared to 2.6-2.8\u00b0C in last year\u2019s report. Implementing only current policies would lead to up to 2.8\u00b0C of warming, compared to 3.1\u00b0C last year.",
+          "unwound_url": "https://www.unep.org/news-and-stories/press-release/new-climate-pledges-only-slightly-lower-dangerous-global-warming"
+        },
+        {
+          "start": 259,
+          "end": 282,
+          "url": "https://t.co/tKjGcch6nH",
+          "expanded_url": "https://x.com/GlobalGoalsUN/status/1990111416628412566/photo/1",
+          "display_url": "pic.x.com/tKjGcch6nH",
+          "media_key": "3_1990111413986009090"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T17:35:10.000Z",
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 13,
+      "like_count": 45,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 2215
+    },
+    "id": "1990111416628412566",
+    "author_id": "115099953",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990111416628412566"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990111413986009090"
+      ]
+    },
+    "text": "Every fraction of a degree avoided means fewer losses and a safer future. \n\n@UNEP\u2019s Executive Director @andersen_inger urges countries to invest in ambitious climate action for growth, jobs, clean air, and resilience: https://t.co/GGi1NWXRd9 \n\n #EmissionsGap https://t.co/tKjGcch6nH"
+  },
+  {
+    "conversation_id": "1989877782336409830",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989800823350792210"
+      }
+    ],
+    "created_at": "2025-11-16T02:06:48.000Z",
+    "public_metrics": {
+      "retweet_count": 41,
+      "reply_count": 31,
+      "like_count": 203,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 7581
+    },
+    "id": "1989877782336409830",
+    "author_id": "1903972064144551936",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989877782336409830"
+    ],
+    "text": "The most amazing thing about the coalition ditching net-zero is that it\u2019s forced all the climate alarmists to fall back on (and re-assert) their claim that the rush to renewables is cheaper anyway. Because they know that climate-alarmism is failing. \n\nAnd on the costs argument, https://t.co/3WMAPCN1Vx",
+    "entities": {
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/3WMAPCN1Vx",
+          "expanded_url": "https://twitter.com/peterdgardner/status/1989800823350792210",
+          "display_url": "x.com/peterdgardner/\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990105205489229956",
+    "entities": {
+      "mentions": [
+        {
+          "start": 29,
+          "end": 33,
+          "username": "okx",
+          "id": "867617849208037377"
+        },
+        {
+          "start": 87,
+          "end": 94,
+          "username": "beeple",
+          "id": "34097500"
+        },
+        {
+          "start": 218,
+          "end": 222,
+          "username": "okx",
+          "id": "867617849208037377"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 108,
+          "end": 115,
+          "tag": "TIBBIR"
+        },
+        {
+          "start": 161,
+          "end": 168,
+          "tag": "TIBBIR"
+        },
+        {
+          "start": 257,
+          "end": 264,
+          "tag": "TIBBIR"
+        }
+      ],
+      "urls": [
+        {
+          "start": 265,
+          "end": 288,
+          "url": "https://t.co/HQKfz2oWNt",
+          "expanded_url": "https://x.com/DreadBong0/status/1990105205489229956/photo/1",
+          "display_url": "pic.x.com/HQKfz2oWNt",
+          "media_key": "3_1990104926924480512"
+        },
+        {
+          "start": 289,
+          "end": 312,
+          "url": "https://t.co/7WzMRE7NCK",
+          "expanded_url": "https://twitter.com/wallet/status/1989696167844704290",
+          "display_url": "x.com/wallet/status/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 109,
+          "end": 114,
+          "probability": 0.5966,
+          "type": "Other",
+          "normalized_text": "TIBBIR"
+        },
+        {
+          "start": 162,
+          "end": 167,
+          "probability": 0.6606,
+          "type": "Other",
+          "normalized_text": "TIBBIR"
+        },
+        {
+          "start": 178,
+          "end": 183,
+          "probability": 0.6608,
+          "type": "Other",
+          "normalized_text": "CeDeFi"
+        },
+        {
+          "start": 258,
+          "end": 263,
+          "probability": 0.5823,
+          "type": "Other",
+          "normalized_text": "TIBBIR"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989696167844704290"
+      }
+    ],
+    "created_at": "2025-11-16T17:10:30.000Z",
+    "public_metrics": {
+      "retweet_count": 31,
+      "reply_count": 23,
+      "like_count": 188,
+      "quote_count": 3,
+      "bookmark_count": 9,
+      "impression_count": 23836
+    },
+    "id": "1990105205489229956",
+    "author_id": "1056304242812743680",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990105205489229956"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990104926924480512"
+      ]
+    },
+    "text": "Well, this looks familiar..\n\n@okx has posted what appears to be a carbon copy image of @beeple's EVER-GREEN $TIBBIR post.. \n\nJust a few days after they included $TIBBIR in their CeDeFi announcement graphic\n\nSeems like @okx is also obsessed with the frog \ud83d\udc38\n\n$TIBBIR https://t.co/HQKfz2oWNt https://t.co/7WzMRE7NCK"
+  },
+  {
+    "conversation_id": "1990058319587979668",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989771811324924271"
+      }
+    ],
+    "created_at": "2025-11-16T14:04:11.000Z",
+    "public_metrics": {
+      "retweet_count": 198,
+      "reply_count": 33,
+      "like_count": 966,
+      "quote_count": 16,
+      "bookmark_count": 68,
+      "impression_count": 72747
+    },
+    "id": "1990058319587979668",
+    "author_id": "1595053087869358080",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990058319587979668"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990058224033181696"
+      ]
+    },
+    "text": "The moment Burna Boy and his team arrived in Seattle in ODGs tour buses ahead of their sold out  Concert in climate pledge arena tonight \ud83e\udd70\ud83e\udd2f\n\nMasala fans no go fit ever relate \ud83e\udd23.. https://t.co/jP1kKuwBFG https://t.co/Kk1M3WxTJJ",
+    "entities": {
+      "urls": [
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/jP1kKuwBFG",
+          "expanded_url": "https://x.com/mygodfather0/status/1990058319587979668/video/1",
+          "display_url": "pic.x.com/jP1kKuwBFG",
+          "media_key": "13_1990058224033181696"
+        },
+        {
+          "start": 203,
+          "end": 226,
+          "url": "https://t.co/Kk1M3WxTJJ",
+          "expanded_url": "https://twitter.com/mygodfather0/status/1989771811324924271",
+          "display_url": "x.com/mygodfather0/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 11,
+          "end": 19,
+          "probability": 0.8911,
+          "type": "Other",
+          "normalized_text": "Burna Boy"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "probability": 0.9276,
+          "type": "Place",
+          "normalized_text": "Seattle"
+        },
+        {
+          "start": 56,
+          "end": 59,
+          "probability": 0.5487,
+          "type": "Other",
+          "normalized_text": "ODGs"
+        },
+        {
+          "start": 141,
+          "end": 146,
+          "probability": 0.5905,
+          "type": "Other",
+          "normalized_text": "Masala"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990041854700826796",
+    "entities": {
+      "mentions": [
+        {
+          "start": 34,
+          "end": 45,
+          "username": "X1EcoChain",
+          "id": "1978362546760663040"
+        }
+      ],
+      "urls": [
+        {
+          "start": 265,
+          "end": 288,
+          "url": "https://t.co/hRgsl1rX0k",
+          "expanded_url": "https://x.com/Xjami_Net/status/1990041854700826796/photo/1",
+          "display_url": "pic.x.com/hRgsl1rX0k",
+          "media_key": "3_1990041851127107584"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 49,
+          "end": 52,
+          "probability": 0.8728,
+          "type": "Other",
+          "normalized_text": "Web3"
+        },
+        {
+          "start": 162,
+          "end": 165,
+          "probability": 0.4721,
+          "type": "Other",
+          "normalized_text": "DeFi"
+        },
+        {
+          "start": 168,
+          "end": 172,
+          "probability": 0.4925,
+          "type": "Other",
+          "normalized_text": "DePIN"
+        },
+        {
+          "start": 190,
+          "end": 194,
+          "probability": 0.4785,
+          "type": "Other",
+          "normalized_text": "dApps"
+        },
+        {
+          "start": 216,
+          "end": 219,
+          "probability": 0.7314,
+          "type": "Other",
+          "normalized_text": "Web4"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T12:58:46.000Z",
+    "public_metrics": {
+      "retweet_count": 31,
+      "reply_count": 69,
+      "like_count": 90,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "impression_count": 20939
+    },
+    "id": "1990041854700826796",
+    "author_id": "1883079544850264064",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990041854700826796"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990041851127107584"
+      ]
+    },
+    "text": "Ditch the energy-guzzling chains, @X1EcoChain is Web3's green revolution! Run your own ultra-low-power X1Node from home, slashing carbon footprints while fueling DeFi, DePIN, and real-world dApps. $5M grants fueling Web4 builders. Join the eco-decentralized future https://t.co/hRgsl1rX0k"
+  },
+  {
+    "conversation_id": "1990005374905176110",
+    "entities": {
+      "mentions": [
+        {
+          "start": 153,
+          "end": 165,
+          "username": "touringdata",
+          "id": "749713532246253568"
+        }
+      ],
+      "urls": [
+        {
+          "start": 232,
+          "end": 255,
+          "url": "https://t.co/862BBW2pzi",
+          "expanded_url": "https://x.com/sakpo0007_/status/1990005374905176110/photo/1",
+          "display_url": "pic.x.com/862BBW2pzi",
+          "media_key": "3_1990005369850970112"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 8,
+          "probability": 0.7781,
+          "type": "Other",
+          "normalized_text": "Burna Boy"
+        },
+        {
+          "start": 34,
+          "end": 53,
+          "probability": 0.5777,
+          "type": "Place",
+          "normalized_text": "Climate Pledge Arena"
+        },
+        {
+          "start": 56,
+          "end": 62,
+          "probability": 0.9259,
+          "type": "Place",
+          "normalized_text": "Seattle"
+        },
+        {
+          "start": 65,
+          "end": 66,
+          "probability": 0.9076,
+          "type": "Place",
+          "normalized_text": "US"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T10:33:48.000Z",
+    "public_metrics": {
+      "retweet_count": 177,
+      "reply_count": 54,
+      "like_count": 592,
+      "quote_count": 15,
+      "bookmark_count": 27,
+      "impression_count": 44806
+    },
+    "id": "1990005374905176110",
+    "author_id": "1281684547688685571",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990005374905176110"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990005369850970112"
+      ]
+    },
+    "text": "Burna Boy show happening today at Climate Pledge Arena, Seattle, US \ud83c\uddfa\ud83c\uddf8\n\nCapacity \u2014 9,051\n\nTickets Sold \u2014 1,978 (21.85%)\n\nTickets Available \u2014 7,073\n\nVia: @touringdata \n\nNo Sign Of Weakness Tour dey show serious Signs Of Weakness \ud83d\ude02\ud83d\ude02\ud83d\ude39 https://t.co/862BBW2pzi"
+  },
+  {
+    "conversation_id": "1990026815193469375",
+    "entities": {
+      "mentions": [
+        {
+          "start": 98,
+          "end": 110,
+          "username": "syndicateio",
+          "id": "1298091402975354880"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T11:59:00.000Z",
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 82,
+      "like_count": 78,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 4234
+    },
+    "id": "1990026815193469375",
+    "author_id": "2177428306",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990026815193469375"
+    ],
+    "text": "As I delved deeper into my studies (Yes, I like to read and understand what I'm talking about) on @syndicateio, the section on \"Staking &amp; Emissions\" caught my attention: \n\nThey operate with 30-day epochs and a total emission of 80 million SYND tokens over 48 epochs (~4 years)"
+  },
+  {
+    "conversation_id": "1989923514762367127",
+    "entities": {
+      "mentions": [
+        {
+          "start": 170,
+          "end": 184,
+          "username": "UNHumanRights",
+          "id": "69231187"
+        },
+        {
+          "start": 185,
+          "end": 199,
+          "username": "IntlCrimCourt",
+          "id": "61731614"
+        },
+        {
+          "start": 232,
+          "end": 241,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 200,
+          "end": 215,
+          "tag": "ClimateJustice"
+        },
+        {
+          "start": 216,
+          "end": 231,
+          "tag": "TruthForTigray"
+        }
+      ],
+      "urls": [
+        {
+          "start": 242,
+          "end": 265,
+          "url": "https://t.co/nu0uI8H7XP",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760390667141525",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760390667141525"
+      }
+    ],
+    "created_at": "2025-11-16T05:08:31.000Z",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 140
+    },
+    "id": "1989923514762367127",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989923514762367127"
+    ],
+    "text": "\ud83d\udce2 We cannot build a green future on land ravaged by war.\nClimate justice demands accountability \u2014 for the forests burned, the waters poisoned, and the civilians erased.\n\n@UNHumanRights @IntlCrimCourt\n#ClimateJustice #TruthForTigray @Hili1421 https://t.co/nu0uI8H7XP"
+  },
+  {
+    "conversation_id": "1989969619122360723",
+    "entities": {
+      "mentions": [
+        {
+          "start": 15,
+          "end": 29,
+          "username": "Cop30noBrasil",
+          "id": "1859953540426248192"
+        },
+        {
+          "start": 62,
+          "end": 76,
+          "username": "DanJoergensen",
+          "id": "507425094"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/iObGaRg5J6",
+          "expanded_url": "https://twitter.com/vonderleyen/status/1986844047101616508",
+          "display_url": "x.com/vonderleyen/st\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 127,
+          "end": 135,
+          "probability": 0.4254,
+          "type": "Organization",
+          "normalized_text": "Coalition"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1986844047101616508"
+      }
+    ],
+    "created_at": "2025-11-16T08:11:43.000Z",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 83,
+      "like_count": 33,
+      "quote_count": 12,
+      "bookmark_count": 2,
+      "impression_count": 27659
+    },
+    "id": "1989969619122360723",
+    "author_id": "920164010342912000",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989969619122360723"
+    ],
+    "text": "At yesterday's @Cop30noBrasil ministerial, which my colleague @DanJoergensen addressed, work got underway to start shaping the Coalition's work.\n\nIt will support more countries in building compliant carbon markets, which are among the most powerful mechanisms to cut emissions. https://t.co/iObGaRg5J6"
+  },
+  {
+    "conversation_id": "1989921461440815508",
+    "entities": {
+      "mentions": [
+        {
+          "start": 249,
+          "end": 252,
+          "username": "UN",
+          "id": "14159148"
+        },
+        {
+          "start": 253,
+          "end": 258,
+          "username": "UNEP",
+          "id": "38146999"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 260,
+          "end": 281,
+          "tag": "EnvironmentalJustice"
+        }
+      ],
+      "urls": [
+        {
+          "start": 282,
+          "end": 305,
+          "url": "https://t.co/nPVUsLHu26",
+          "expanded_url": "https://x.com/Lwam2324/status/1989921461440815508/photo/1",
+          "display_url": "pic.x.com/nPVUsLHu26",
+          "media_key": "3_1989921458630373376"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 6,
+          "end": 11,
+          "probability": 0.9478,
+          "type": "Place",
+          "normalized_text": "Africa"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T05:00:22.000Z",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 46
+    },
+    "id": "1989921461440815508",
+    "author_id": "1380714575981518850",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989921461440815508"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989921458630373376"
+      ]
+    },
+    "text": "\ud83d\udd17East Africa\u2019s dry forests are collapsing in silence.\nWhen war erupts, the environment becomes an invisible casualty,&amp; no one counts the loss.\nConflict is a climate threat.\nConflict is a deforestation driver.\nConflict is a humanitarian crisis.\n\n@UN @UNEP \n#EnvironmentalJustice https://t.co/nPVUsLHu26"
+  },
+  {
+    "conversation_id": "1990118251930468359",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990108870950154313"
+      }
+    ],
+    "created_at": "2025-11-16T18:02:20.000Z",
+    "public_metrics": {
+      "retweet_count": 59,
+      "reply_count": 3,
+      "like_count": 98,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "impression_count": 1699
+    },
+    "id": "1990118251930468359",
+    "author_id": "1362462615599910912",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990118251930468359"
+    ],
+    "text": "We do not want the New Climate Order! https://t.co/5tUJ0BtUg4",
+    "entities": {
+      "urls": [
+        {
+          "start": 38,
+          "end": 61,
+          "url": "https://t.co/5tUJ0BtUg4",
+          "expanded_url": "https://twitter.com/Tboo211/status/1990108870950154313",
+          "display_url": "x.com/Tboo211/status\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 19,
+          "end": 35,
+          "probability": 0.6796,
+          "type": "Other",
+          "normalized_text": "New Climate Order"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990109791050436714",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990057540676108669"
+      }
+    ],
+    "created_at": "2025-11-16T17:28:43.000Z",
+    "public_metrics": {
+      "retweet_count": 79,
+      "reply_count": 18,
+      "like_count": 315,
+      "quote_count": 5,
+      "bookmark_count": 15,
+      "impression_count": 9575
+    },
+    "id": "1990109791050436714",
+    "author_id": "1273733645166153732",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990109791050436714"
+    ],
+    "text": "The Paris Climate Accord will collapse like the Net Zero climate alliances. \ud83d\udc47 https://t.co/cjNeue4LSb",
+    "entities": {
+      "urls": [
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/cjNeue4LSb",
+          "expanded_url": "https://twitter.com/wattsupwiththat/status/1990057540676108669",
+          "display_url": "x.com/wattsupwiththa\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 4,
+          "end": 23,
+          "probability": 0.5984,
+          "type": "Other",
+          "normalized_text": "Paris Climate Accord"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "probability": 0.7633,
+          "type": "Other",
+          "normalized_text": "Net Zero"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990144374114599238",
+    "entities": {
+      "mentions": [
+        {
+          "start": 11,
+          "end": 21,
+          "username": "leng_cath",
+          "id": "1018530701505974272"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/G1CyqIWUus",
+          "expanded_url": "https://x.com/harrytlambert/status/1990144374114599238/video/1",
+          "display_url": "pic.x.com/G1CyqIWUus",
+          "media_key": "13_1990143172958203918"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 64,
+          "end": 66,
+          "probability": 0.8976,
+          "type": "Organization",
+          "normalized_text": "BBC"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T19:46:08.000Z",
+    "public_metrics": {
+      "retweet_count": 564,
+      "reply_count": 51,
+      "like_count": 2441,
+      "quote_count": 29,
+      "bookmark_count": 280,
+      "impression_count": 149695
+    },
+    "id": "1990144374114599238",
+    "author_id": "2603477264",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990144374114599238"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990143172958203918"
+      ]
+    },
+    "text": "I spoke to @leng_cath about the deep climate of fear inside the BBC in covering the sex and gender debate \n\n\u201cI have heard really hard people, who\u2019ve done tough, physically dangerous stories, whispering about this in the newsroom.\u201d\n\nWe all saw this all across the media 2015-2025 https://t.co/G1CyqIWUus"
+  },
+  {
+    "conversation_id": "1989920666141786531",
+    "entities": {
+      "mentions": [
+        {
+          "start": 197,
+          "end": 213,
+          "username": "UNPeacebuilding",
+          "id": "384514167"
+        },
+        {
+          "start": 214,
+          "end": 227,
+          "username": "ECA_OFFICIAL",
+          "id": "329666643"
+        },
+        {
+          "start": 228,
+          "end": 233,
+          "username": "UNEP",
+          "id": "38146999"
+        },
+        {
+          "start": 234,
+          "end": 243,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 245,
+          "end": 262,
+          "tag": "MassDisplacement"
+        }
+      ],
+      "urls": [
+        {
+          "start": 263,
+          "end": 286,
+          "url": "https://t.co/2XhTOfZhaR",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760378403016930",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760378403016930"
+      }
+    ],
+    "created_at": "2025-11-16T04:57:12.000Z",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 82
+    },
+    "id": "1989920666141786531",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989920666141786531"
+    ],
+    "text": "\ud83d\udea8 Conflict-driven environmental collapse accelerates famine \u2014\nand famine accelerates displacement.\nThe climate crisis is not separate from the genocide by attrition unfolding in war-torn regions.\n\n@UNPeacebuilding @ECA_OFFICIAL @UNEP @Hili1421 \n#MassDisplacement https://t.co/2XhTOfZhaR"
+  },
+  {
+    "conversation_id": "1989923297237316002",
+    "entities": {
+      "mentions": [
+        {
+          "start": 179,
+          "end": 194,
+          "username": "USEmbassyAddis",
+          "id": "2438067822"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 85,
+          "end": 91,
+          "tag": "COP30"
+        },
+        {
+          "start": 195,
+          "end": 211,
+          "tag": "ClimateSecurity"
+        },
+        {
+          "start": 212,
+          "end": 230,
+          "tag": "GlobalSouthVoices"
+        }
+      ],
+      "urls": [
+        {
+          "start": 241,
+          "end": 264,
+          "url": "https://t.co/beByxt2Nor",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760388444156355",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 86,
+          "end": 90,
+          "probability": 0.9467,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760388444156355"
+      }
+    ],
+    "created_at": "2025-11-16T05:07:39.000Z",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 122
+    },
+    "id": "1989923297237316002",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989923297237316002"
+    ],
+    "text": "\ud83d\udce3 The most fragile ecosystems are in the most unstable regions.\nIgnoring conflict at #COP30 guarantees climate failure.\nBecause where war goes, the environment dies.\n\n@EUinAfrica @USEmbassyAddis\n#ClimateSecurity #GlobalSouthVoices @Hili1421 https://t.co/beByxt2Nor"
+  },
+  {
+    "conversation_id": "1990001230358233541",
+    "entities": {
+      "mentions": [
+        {
+          "start": 243,
+          "end": 255,
+          "username": "touringdata",
+          "id": "749713532246253568"
+        }
+      ],
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/JwONdj7KGO",
+          "expanded_url": "https://x.com/WizStatz/status/1990001230358233541/photo/1",
+          "display_url": "pic.x.com/JwONdj7KGO",
+          "media_key": "3_1990000531251589120"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 8,
+          "probability": 0.5088,
+          "type": "Other",
+          "normalized_text": "Burna boy"
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "probability": 0.8345,
+          "type": "Place",
+          "normalized_text": "Seattle"
+        },
+        {
+          "start": 68,
+          "end": 69,
+          "probability": 0.8564,
+          "type": "Place",
+          "normalized_text": "US"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T10:17:20.000Z",
+    "public_metrics": {
+      "retweet_count": 110,
+      "reply_count": 51,
+      "like_count": 349,
+      "quote_count": 17,
+      "bookmark_count": 28,
+      "impression_count": 77644
+    },
+    "id": "1990001230358233541",
+    "author_id": "1791692137874014208",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990001230358233541"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990000531251589120"
+      ]
+    },
+    "text": "Burna boy show holding today\n\ud83d\udccdVenue: Climate Pledge Arena, Seattle, US \ud83c\uddfa\ud83c\uddf8\n\ud83d\udcc5 Event Date: Sun \u2022 11/16/2025\n\ud83d\uddd3\ufe0f General Sales Start: 06/27/2025\n\n\ud83c\udfab Capacity: 9,051\n\u2705 Tickets Sold: 1,978\n\ud83d\udfe2 Tickets Available: 7,073\n\ud83d\udcca Percentage Sold: 21.85%\n\nSource: @touringdata https://t.co/JwONdj7KGO"
+  },
+  {
+    "conversation_id": "1989934315057434887",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Finisher__",
+          "id": "1354092222"
+        },
+        {
+          "start": 166,
+          "end": 178,
+          "username": "GREENRYCOIN",
+          "id": "1912658490188853248"
+        }
+      ],
+      "urls": [
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/tXnWbWCXI5",
+          "expanded_url": "https://x.com/GMC1642114/status/1989960074337694075/photo/1",
+          "display_url": "pic.x.com/tXnWbWCXI5",
+          "media_key": "3_1989960063373451264"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 119,
+          "end": 120,
+          "probability": 0.8992,
+          "type": "Place",
+          "normalized_text": "CA"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989934315057434887"
+      }
+    ],
+    "in_reply_to_user_id": "1354092222",
+    "created_at": "2025-11-16T07:33:48.000Z",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 42,
+      "like_count": 45,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 172
+    },
+    "id": "1989960074337694075",
+    "author_id": "1989607469115740163",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989960074337694075"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989960063373451264"
+      ]
+    },
+    "text": "@Finisher__ Fear high, 50W MA not flipped.\nPerfect stealth-accum zone.\nGMC building in a multi-trillion carbon market.\nCA: 0x70bfbBc660E73551FAb37587Dc4db223d50DB0b0\n@GREENRYCOIN https://t.co/tXnWbWCXI5"
+  },
+  {
+    "conversation_id": "1990133518299545723",
+    "entities": {
+      "mentions": [
+        {
+          "start": 186,
+          "end": 193,
+          "username": "UNOCHA",
+          "id": "21303235"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 6,
+          "probability": 0.9827,
+          "type": "Place",
+          "normalized_text": "Somalia"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T19:03:00.000Z",
+    "public_metrics": {
+      "retweet_count": 60,
+      "reply_count": 62,
+      "like_count": 151,
+      "quote_count": 4,
+      "bookmark_count": 15,
+      "impression_count": 31516
+    },
+    "id": "1990133518299545723",
+    "author_id": "14159148",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990133518299545723"
+    ],
+    "text": "Somalia: After years of conflict, displacement and climate shocks, families are facing worsening hunger.\n\nHumanitarians are struggling to meet growing needs due to global funding cuts.\n\n@UNOCHA has 5 things you should know about the crisis. \u2b07\ufe0f"
+  },
+  {
+    "conversation_id": "1990203281914691840",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990197585064448079"
+      }
+    ],
+    "created_at": "2025-11-16T23:40:13.000Z",
+    "public_metrics": {
+      "retweet_count": 44,
+      "reply_count": 17,
+      "like_count": 169,
+      "quote_count": 2,
+      "bookmark_count": 3,
+      "impression_count": 3629
+    },
+    "id": "1990203281914691840",
+    "author_id": "1290778158254428168",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990203281914691840"
+    ],
+    "text": "Personally I've sacrificed enough in the name of their fake crisis. In fact, I'd like a refund on all the carbon tax I've paid that China decimated by the second. https://t.co/cRn5UN6yTt",
+    "entities": {
+      "urls": [
+        {
+          "start": 163,
+          "end": 186,
+          "url": "https://t.co/cRn5UN6yTt",
+          "expanded_url": "https://twitter.com/MarcNixon24/status/1990197585064448079",
+          "display_url": "x.com/MarcNixon24/st\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 132,
+          "end": 136,
+          "probability": 0.9574,
+          "type": "Place",
+          "normalized_text": "China"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990166108972707969",
+    "entities": {
+      "mentions": [
+        {
+          "start": 10,
+          "end": 21,
+          "username": "SeismicSys",
+          "id": "1719012215024410624"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/mC4fFMhOAZ",
+          "expanded_url": "https://x.com/Tomzycruz/status/1990166108972707969/photo/1",
+          "display_url": "pic.x.com/mC4fFMhOAZ",
+          "media_key": "3_1990166088873619456"
+        },
+        {
+          "start": 301,
+          "end": 324,
+          "url": "https://t.co/g8K0cC186h",
+          "expanded_url": "https://twitter.com/Tomzycruz/status/1989795121643356627",
+          "display_url": "x.com/Tomzycruz/stat\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 237,
+          "end": 239,
+          "probability": 0.3974,
+          "type": "Other",
+          "normalized_text": "TEE"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989795121643356627"
+      }
+    ],
+    "created_at": "2025-11-16T21:12:30.000Z",
+    "public_metrics": {
+      "retweet_count": 29,
+      "reply_count": 4,
+      "like_count": 32,
+      "quote_count": 1,
+      "bookmark_count": 7,
+      "impression_count": 256
+    },
+    "id": "1990166108972707969",
+    "author_id": "1473019645225537544",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990166108972707969"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990166088873619456"
+      ]
+    },
+    "text": "Day 69 on @SeismicSys \n\nThe side channel attacks\n\nSide channel attacks target TEEs by exploiting unintended information leaks from hardware signals, such as timing, power consumption, or electromagnetic emissions. \n\nThese attacks bypass TEE's security by analyzing physical or https://t.co/mC4fFMhOAZ https://t.co/g8K0cC186h"
+  },
+  {
+    "conversation_id": "1989960458301050987",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989959462485143930"
+      }
+    ],
+    "created_at": "2025-11-16T07:35:19.000Z",
+    "public_metrics": {
+      "retweet_count": 225,
+      "reply_count": 30,
+      "like_count": 1101,
+      "quote_count": 17,
+      "bookmark_count": 36,
+      "impression_count": 59639
+    },
+    "id": "1989960458301050987",
+    "author_id": "1104076483469946880",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989960458301050987"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1989960012035141632"
+      ]
+    },
+    "text": "GREATNESS. BURNA BOY WATCHING THE SEATTLE KRAKEN HOCKEY GAME LIVE AT THE CLIMATE PLEDGE ARENA FROM THE VIP BOX. HIS CONCERT IS HAPPENING AT THE SAME ARENA TONIGHT! \ud83c\udfdf\ufe0f\ud83d\udc10 https://t.co/5Kj29uLIFv https://t.co/Stpsij6sGE",
+    "entities": {
+      "urls": [
+        {
+          "start": 168,
+          "end": 191,
+          "url": "https://t.co/5Kj29uLIFv",
+          "expanded_url": "https://x.com/1BENNY7G/status/1989960458301050987/video/1",
+          "display_url": "pic.x.com/5Kj29uLIFv",
+          "media_key": "13_1989960012035141632"
+        },
+        {
+          "start": 192,
+          "end": 215,
+          "url": "https://t.co/Stpsij6sGE",
+          "expanded_url": "https://twitter.com/1benny7g/status/1989959462485143930",
+          "display_url": "x.com/1benny7g/statu\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 11,
+          "end": 19,
+          "probability": 0.4424,
+          "type": "Person",
+          "normalized_text": "BURNA BOY"
+        },
+        {
+          "start": 42,
+          "end": 54,
+          "probability": 0.4322,
+          "type": "Other",
+          "normalized_text": "KRAKEN HOCKEY"
+        },
+        {
+          "start": 88,
+          "end": 92,
+          "probability": 0.6987,
+          "type": "Person",
+          "normalized_text": "ARENA"
+        },
+        {
+          "start": 149,
+          "end": 153,
+          "probability": 0.5131,
+          "type": "Other",
+          "normalized_text": "ARENA"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989914200182026423",
+    "entities": {
+      "mentions": [
+        {
+          "start": 185,
+          "end": 193,
+          "username": "UNOSAPG",
+          "id": "4267109549"
+        },
+        {
+          "start": 194,
+          "end": 206,
+          "username": "Europarl_EN",
+          "id": "36329597"
+        },
+        {
+          "start": 242,
+          "end": 251,
+          "username": "Lwam2324",
+          "id": "1380714575981518850"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 50,
+          "end": 56,
+          "tag": "COP30"
+        },
+        {
+          "start": 207,
+          "end": 226,
+          "tag": "AtrocityPrevention"
+        },
+        {
+          "start": 227,
+          "end": 240,
+          "tag": "ClimateTruth"
+        }
+      ],
+      "urls": [
+        {
+          "start": 252,
+          "end": 275,
+          "url": "https://t.co/JbN0H3kURF",
+          "expanded_url": "https://www.forskersonen.no/afrika-kronikk-meninger/disse-skogene-star-i-fare-for-a-forsvinne-det-skjer-verden-over/2576139",
+          "display_url": "forskersonen.no/afrika-kronikk\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989247309545082880/vITyvV0M?format=jpg&name=orig",
+              "width": 1200,
+              "height": 683
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989247309545082880/vITyvV0M?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Disse skogene st\u00e5r i fare for \u00e5 forsvinne. Det skjer verden over",
+          "description": "KRONIKK: \u00d8st-Afrikas skoger er livsviktige for millioner av mennesker. Men i skyggen av konflikt og krise forsvinner de uten at vi merker det.",
+          "unwound_url": "https://www.forskersonen.no/afrika-kronikk-meninger/disse-skogene-star-i-fare-for-a-forsvinne-det-skjer-verden-over/2576139"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 51,
+          "end": 55,
+          "probability": 0.9423,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T04:31:30.000Z",
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 0,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 78
+    },
+    "id": "1989914200182026423",
+    "author_id": "1380714575981518850",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989914200182026423"
+    ],
+    "text": "\ud83d\udcccClimate delegates touring reforestation sites at #COP30 should also examine the landscapes where conflict erased both people and ecosystems.\nEnvironmental collapse can be engineered.\n\n@UNOSAPG @Europarl_EN\n#AtrocityPrevention #ClimateTruth\n\n@Lwam2324 https://t.co/JbN0H3kURF"
+  },
+  {
+    "conversation_id": "1989914046825443601",
+    "entities": {
+      "mentions": [
+        {
+          "start": 178,
+          "end": 193,
+          "username": "USEmbassyAddis",
+          "id": "2438067822"
+        },
+        {
+          "start": 194,
+          "end": 208,
+          "username": "addisstandard",
+          "id": "263074291"
+        },
+        {
+          "start": 246,
+          "end": 255,
+          "username": "Lwam2324",
+          "id": "1380714575981518850"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 84,
+          "end": 90,
+          "tag": "COP30"
+        },
+        {
+          "start": 209,
+          "end": 225,
+          "tag": "ClimateSecurity"
+        },
+        {
+          "start": 226,
+          "end": 244,
+          "tag": "GlobalSouthVoices"
+        }
+      ],
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/JbN0H3kn27",
+          "expanded_url": "https://www.forskersonen.no/afrika-kronikk-meninger/disse-skogene-star-i-fare-for-a-forsvinne-det-skjer-verden-over/2576139",
+          "display_url": "forskersonen.no/afrika-kronikk\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989247309545082880/vITyvV0M?format=jpg&name=orig",
+              "width": 1200,
+              "height": 683
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989247309545082880/vITyvV0M?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Disse skogene st\u00e5r i fare for \u00e5 forsvinne. Det skjer verden over",
+          "description": "KRONIKK: \u00d8st-Afrikas skoger er livsviktige for millioner av mennesker. Men i skyggen av konflikt og krise forsvinner de uten at vi merker det.",
+          "unwound_url": "https://www.forskersonen.no/afrika-kronikk-meninger/disse-skogene-star-i-fare-for-a-forsvinne-det-skjer-verden-over/2576139"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 85,
+          "end": 89,
+          "probability": 0.9423,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T04:30:54.000Z",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 57
+    },
+    "id": "1989914046825443601",
+    "author_id": "1380714575981518850",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989914046825443601"
+    ],
+    "text": "\ud83d\udccdThe most fragile ecosystems are in the most unstable regions.\nIgnoring conflict at #COP30 guarantees climate failure.\nBecause where war goes, the environment dies.\n\n@EUinAfrica @USEmbassyAddis @addisstandard\n#ClimateSecurity #GlobalSouthVoices\n\n@Lwam2324 https://t.co/JbN0H3kn27"
+  },
+  {
+    "conversation_id": "1989969814757286348",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989774366620717066"
+      }
+    ],
+    "created_at": "2025-11-16T08:12:30.000Z",
+    "public_metrics": {
+      "retweet_count": 30,
+      "reply_count": 3,
+      "like_count": 79,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 3447
+    },
+    "id": "1989969814757286348",
+    "author_id": "2414148006",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989969814757286348"
+    ],
+    "text": "Kenyan cows shouldn't fart their climate changing gases but this is somehow okay \ud83d\udc47 https://t.co/JlJl8AzkHZ",
+    "entities": {
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/JlJl8AzkHZ",
+          "expanded_url": "https://twitter.com/SheilaGunnReid/status/1989774366620717066",
+          "display_url": "x.com/SheilaGunnReid\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989950346953969983",
+    "entities": {
+      "mentions": [
+        {
+          "start": 71,
+          "end": 82,
+          "username": "TeamiPians",
+          "id": "1230168481812897800"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 83,
+          "end": 105,
+          "tag": "ImranKhanTillLastBall"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 9,
+          "probability": 0.961,
+          "type": "Person",
+          "normalized_text": "Imran Khan"
+        },
+        {
+          "start": 84,
+          "end": 104,
+          "probability": 0.9647,
+          "type": "Person",
+          "normalized_text": "ImranKhanTillLastBall"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T06:55:08.000Z",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 23
+    },
+    "id": "1989950346953969983",
+    "author_id": "1937391339945029632",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989950346953969983"
+    ],
+    "text": "Imran Khan recommends climate adaptation funding for vulnerable areas.\n@TeamiPians\n#ImranKhanTillLastBall"
+  },
+  {
+    "conversation_id": "1990195872244904325",
+    "entities": {
+      "mentions": [
+        {
+          "start": 241,
+          "end": 253,
+          "username": "WeatherProf",
+          "id": "963157886"
+        }
+      ],
+      "urls": [
+        {
+          "start": 254,
+          "end": 277,
+          "url": "https://t.co/GIEGhwTjYa",
+          "expanded_url": "https://x.com/subfossilguy/status/1990195872244904325/photo/1",
+          "display_url": "pic.x.com/GIEGhwTjYa",
+          "media_key": "3_1990194951263596544"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 4,
+          "end": 9,
+          "probability": 0.5709,
+          "type": "Place",
+          "normalized_text": "Arctic"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T23:10:46.000Z",
+    "public_metrics": {
+      "retweet_count": 134,
+      "reply_count": 168,
+      "like_count": 364,
+      "quote_count": 10,
+      "bookmark_count": 28,
+      "impression_count": 18734
+    },
+    "id": "1990195872244904325",
+    "author_id": "1219658497534701572",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990195872244904325"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990194951263596544"
+      ]
+    },
+    "text": "The Arctic as we knew it is disappearing right in front our eyes... crazy warm anomalies up to ~20\u00b0C!  \ud83d\ude31\n\nDo you see the cold anomalies that (according to climate denials) counterbalance the warm ones?\n\nNo, because they hardly occur...\n\nVia @WeatherProf https://t.co/GIEGhwTjYa"
+  },
+  {
+    "conversation_id": "1989917980470440427",
+    "entities": {
+      "mentions": [
+        {
+          "start": 220,
+          "end": 230,
+          "username": "StateDept",
+          "id": "9624742"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "username": "AUC_PAPS",
+          "id": "138369105"
+        },
+        {
+          "start": 241,
+          "end": 255,
+          "username": "UNHumanRights",
+          "id": "69231187"
+        },
+        {
+          "start": 273,
+          "end": 282,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 51,
+          "end": 57,
+          "tag": "COP30"
+        },
+        {
+          "start": 256,
+          "end": 272,
+          "tag": "ClimateSecurity"
+        }
+      ],
+      "urls": [
+        {
+          "start": 283,
+          "end": 306,
+          "url": "https://t.co/LU99wNGIzO",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760366981919037",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 52,
+          "end": 56,
+          "probability": 0.9319,
+          "type": "Other",
+          "normalized_text": "COP30"
+        },
+        {
+          "start": 84,
+          "end": 89,
+          "probability": 0.9225,
+          "type": "Place",
+          "normalized_text": "Tigray"
+        },
+        {
+          "start": 92,
+          "end": 96,
+          "probability": 0.9838,
+          "type": "Place",
+          "normalized_text": "Syria"
+        },
+        {
+          "start": 99,
+          "end": 103,
+          "probability": 0.9863,
+          "type": "Place",
+          "normalized_text": "Yemen"
+        },
+        {
+          "start": 106,
+          "end": 112,
+          "probability": 0.983,
+          "type": "Place",
+          "normalized_text": "Ukraine"
+        },
+        {
+          "start": 120,
+          "end": 124,
+          "probability": 0.9789,
+          "type": "Place",
+          "normalized_text": "Sudan"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760366981919037"
+      }
+    ],
+    "created_at": "2025-11-16T04:46:32.000Z",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 150
+    },
+    "id": "1989917980470440427",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989917980470440427"
+    ],
+    "text": "\ud83d\udccdHow can we talk about \u201cnature-based solutions\u201d at #COP30 when entire ecosystems in Tigray, Syria, Yemen, Ukraine &amp; Sudan have been turned into battlegrounds?\nClimate policy without conflict analysis is incomplete.\n @StateDept @AUC_PAPS @UNHumanRights\n#ClimateSecurity @Hili1421 https://t.co/LU99wNGIzO"
+  },
+  {
+    "conversation_id": "1989938755688706442",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989934555391049759"
+      }
+    ],
+    "created_at": "2025-11-16T06:09:05.000Z",
+    "public_metrics": {
+      "retweet_count": 29,
+      "reply_count": 26,
+      "like_count": 86,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 5836
+    },
+    "id": "1989938755688706442",
+    "author_id": "135031721",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989938755688706442"
+    ],
+    "text": "The lies, disinformation, political propaganda and straight out blind ignorance on here about climate change and renewable energy are staggering. https://t.co/AZDC3NYfXF",
+    "entities": {
+      "urls": [
+        {
+          "start": 146,
+          "end": 169,
+          "url": "https://t.co/AZDC3NYfXF",
+          "expanded_url": "https://twitter.com/4mambo/status/1989934555391049759",
+          "display_url": "x.com/4mambo/status/\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990185291907256774",
+    "entities": {
+      "mentions": [
+        {
+          "start": 14,
+          "end": 27,
+          "username": "PeterSweden7",
+          "id": "707231479047315456"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/cEKWfuflgP",
+          "expanded_url": "https://x.com/dustinkittle/status/1990185291907256774/video/1",
+          "display_url": "pic.x.com/cEKWfuflgP",
+          "media_key": "13_1990185223758213120"
+        },
+        {
+          "start": 301,
+          "end": 324,
+          "url": "https://t.co/4oKNDg3Ljz",
+          "expanded_url": "https://twitter.com/petersweden7/status/1990162910115402057",
+          "display_url": "x.com/petersweden7/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 59,
+          "end": 64,
+          "probability": 0.6982,
+          "type": "Other",
+          "normalized_text": "Bovaer"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990162910115402057"
+      }
+    ],
+    "created_at": "2025-11-16T22:28:44.000Z",
+    "public_metrics": {
+      "retweet_count": 171,
+      "reply_count": 38,
+      "like_count": 421,
+      "quote_count": 28,
+      "bookmark_count": 13,
+      "impression_count": 10386
+    },
+    "id": "1990185291907256774",
+    "author_id": "1010225240",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990185291907256774"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990185223758213120"
+      ]
+    },
+    "text": "Breaking from @PeterSweden7 below \u2014\n\nBy way of background, Bovaer is a feed additive marketed as a solution to reduce methane by altering digestion in cattle.\n\nAside from falsities set forth in the climate agenda, a product designed to change core rumen biological function in https://t.co/cEKWfuflgP https://t.co/4oKNDg3Ljz"
+  },
+  {
+    "conversation_id": "1990206068270731614",
+    "entities": {
+      "mentions": [
+        {
+          "start": 229,
+          "end": 235,
+          "username": "CSIRO",
+          "id": "174083824"
+        },
+        {
+          "start": 236,
+          "end": 245,
+          "username": "wamuseum",
+          "id": "194010903"
+        },
+        {
+          "start": 246,
+          "end": 254,
+          "username": "UQ_News",
+          "id": "17383073"
+        }
+      ],
+      "urls": [
+        {
+          "start": 255,
+          "end": 278,
+          "url": "https://t.co/UKEirbkRae",
+          "expanded_url": "https://x.com/MarkOgge/status/1990206068270731614/photo/1",
+          "display_url": "pic.x.com/UKEirbkRae",
+          "media_key": "3_1990194728789532672"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 19,
+          "end": 35,
+          "probability": 0.9913,
+          "type": "Organization",
+          "normalized_text": "Monash University"
+        },
+        {
+          "start": 101,
+          "end": 109,
+          "probability": 0.9884,
+          "type": "Place",
+          "normalized_text": "Australia"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T23:51:17.000Z",
+    "public_metrics": {
+      "retweet_count": 141,
+      "reply_count": 123,
+      "like_count": 357,
+      "quote_count": 8,
+      "bookmark_count": 5,
+      "impression_count": 9943
+    },
+    "id": "1990206068270731614",
+    "author_id": "1267300532319711234",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990194736041468192",
+      "1990206068270731614"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990194728789532672"
+      ]
+    },
+    "text": "Congratulations to Monash University for ending sponsorship of one of the biggest climate vandals in Australia. \n\nHopefully a first step in getting the cancer of oil and gas money out of our research institutions\u2026 looking at you @CSIRO @wamuseum @UQ_News https://t.co/UKEirbkRae"
+  },
+  {
+    "conversation_id": "1989918527298703543",
+    "entities": {
+      "mentions": [
+        {
+          "start": 219,
+          "end": 231,
+          "username": "HorizonXRPL",
+          "id": "1882114941844410368"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 234,
+          "end": 245,
+          "tag": "BRIDGE2XRP"
+        }
+      ],
+      "urls": [
+        {
+          "start": 120,
+          "end": 143,
+          "url": "https://t.co/nmnzradm2W",
+          "expanded_url": "http://fartxrpl.com",
+          "display_url": "fartxrpl.com",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989041832635006976/CSTJoHar?format=jpg&name=orig",
+              "width": 1280,
+              "height": 862
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989041832635006976/CSTJoHar?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "FART CLUB",
+          "description": "Rising from the toxic ashes of failed projects, FART CLUB emerges on XRPL as a community-driven token. Join our gassy adventure through NFTs and immersive storytelling in the digital sewers of innovation. Twelve outcasts, condemned by lottery to the toxic sewers. Seven years transformed them\u2014their skin turned green, their bodies adapted, and their flatulence became weaponized. What star ted as survival became strength through brutal underground brawls and relentless training in the darkness. Now these",
+          "unwound_url": "https://fartxrpl.com/"
+        },
+        {
+          "start": 155,
+          "end": 178,
+          "url": "https://t.co/HWjD3f2na7",
+          "expanded_url": "http://t.me/FartClubXRPL",
+          "display_url": "t.me/FartClubXRPL",
+          "status": 200,
+          "title": "Telegram: Contact @FartClubXRPL",
+          "unwound_url": "https://t.me/FartClubXRPL"
+        },
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/aDXsdWvzXd",
+          "expanded_url": "https://horizonxrpl.com/token/4641525400000000000000000000000000000000:rB9DxbhHgsKWuwEqDtA86UHmNefSysDsAH?ref=fart",
+          "display_url": "horizonxrpl.com/token/46415254\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1988367663408836609/raNFLDg8?format=jpg&name=orig",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1988367663408836609/raNFLDg8?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "FART (FART) - HORIZON",
+          "description": "Where the cast aside start to rise like a gas cloud from below, where under rated utility is showcased proudly!",
+          "unwound_url": "https://horizonxrpl.com/token/4641525400000000000000000000000000000000:rB9DxbhHgsKWuwEqDtA86UHmNefSysDsAH?ref=fart"
+        },
+        {
+          "start": 246,
+          "end": 269,
+          "url": "https://t.co/ozNAlrlIF3",
+          "expanded_url": "https://x.com/FartHeadXRPL/status/1989918527298703543/photo/1",
+          "display_url": "pic.x.com/ozNAlrlIF3",
+          "media_key": "3_1989918521409818624"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 145,
+          "end": 152,
+          "probability": 0.7406,
+          "type": "Other",
+          "normalized_text": "Telegram"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T04:48:42.000Z",
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 6,
+      "like_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 192
+    },
+    "id": "1989918527298703543",
+    "author_id": "1889228989660864512",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989918527298703543"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989918521409818624"
+      ]
+    },
+    "text": "Spreading the stench across the xrpl \ud83d\udca8 \n\nDo a little research, think about the climate and make a smart move\ud83d\udcb0\n\nWebsite: https://t.co/nmnzradm2W\n\nTelegram: https://t.co/HWjD3f2na7\n\nBuy: https://t.co/aDXsdWvzXd\n\nTrade on @HorizonXRPL \n\n#BRIDGE2XRP https://t.co/ozNAlrlIF3"
+  },
+  {
+    "conversation_id": "1989936062719005131",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989934417226465736"
+      }
+    ],
+    "created_at": "2025-11-16T05:58:23.000Z",
+    "public_metrics": {
+      "retweet_count": 125,
+      "reply_count": 59,
+      "like_count": 374,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 9382
+    },
+    "id": "1989936062719005131",
+    "author_id": "1632182142741676033",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989936062719005131"
+    ],
+    "text": "That is right, Margaret. While the LNP are bleating, like the sheep they are, about supposed increased power prices, caused by 9 fucking years of them doing fuck all about aging coal fired power stations, we\u2019re paying the price of climate change \ud83d\ude21 https://t.co/9GTJYLN1Re",
+    "entities": {
+      "urls": [
+        {
+          "start": 248,
+          "end": 271,
+          "url": "https://t.co/9GTJYLN1Re",
+          "expanded_url": "https://twitter.com/margare12740329/status/1989934417226465736",
+          "display_url": "x.com/margare1274032\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 15,
+          "end": 22,
+          "probability": 0.718,
+          "type": "Person",
+          "normalized_text": "Margaret"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "probability": 0.7087,
+          "type": "Organization",
+          "normalized_text": "LNP"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990147378117275712",
+    "entities": {
+      "mentions": [
+        {
+          "start": 233,
+          "end": 246,
+          "username": "BjornLomborg",
+          "id": "95869752"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/eBOFMvfQBT",
+          "expanded_url": "https://x.com/electricfelix/status/1990147378117275712/photo/1",
+          "display_url": "pic.x.com/eBOFMvfQBT",
+          "media_key": "3_1990147249536372736"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 14,
+          "end": 15,
+          "probability": 0.9663,
+          "type": "Place",
+          "normalized_text": "EU"
+        },
+        {
+          "start": 45,
+          "end": 60,
+          "probability": 0.6325,
+          "type": "Other",
+          "normalized_text": "Paris  Agreement"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T19:58:04.000Z",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 8,
+      "like_count": 78,
+      "quote_count": 2,
+      "bookmark_count": 8,
+      "impression_count": 7778
+    },
+    "id": "1990147378117275712",
+    "author_id": "261136146",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990147378117275712"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990147249536372736"
+      ]
+    },
+    "text": "\"Consider the EU\u2019s 1st pledge under the 2015 Paris  Agreement to cut emissions in 2030 to 40% below levels in 1990.\n\nPlenty scoffed at the time.\nThe promises \u201cwill fail to accomplish anything  substantial to rein in climate change,\u201d @BjornLomborg, long-time opponent of action, https://t.co/eBOFMvfQBT"
+  },
+  {
+    "conversation_id": "1990087206409540044",
+    "entities": {
+      "mentions": [
+        {
+          "start": 218,
+          "end": 230,
+          "username": "BBCBreaking",
+          "id": "5402612"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "username": "BBCWorld",
+          "id": "742143"
+        }
+      ],
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/S0gCU1mWnJ",
+          "expanded_url": "https://twitter.com/volcaholic1/status/1989328333952123110",
+          "display_url": "x.com/volcaholic1/st\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 17,
+          "end": 22,
+          "probability": 0.8576,
+          "type": "Person",
+          "normalized_text": "CRISIS"
+        },
+        {
+          "start": 36,
+          "end": 41,
+          "probability": 0.7479,
+          "type": "Person",
+          "normalized_text": "CRISIS"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989328333952123110"
+      }
+    ],
+    "created_at": "2025-11-16T15:58:58.000Z",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 0,
+      "like_count": 18,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 477
+    },
+    "id": "1990087206409540044",
+    "author_id": "952636350158819328",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990087206409540044"
+    ],
+    "text": "\ud83d\udea8\ud83c\udfa4\ud83c\udf0a\ud83d\udd25 THE CLIMATE CRISIS IS A HEALTH CRISIS.\n\nRemember, the establishment are already fully aware of this, but still want to kill you, with taking away even more of the planet's life support systems with fossil fuels.\n\n@BBCBreaking @BBCWorld Are you ready to tell the public. https://t.co/S0gCU1mWnJ"
+  },
+  {
+    "conversation_id": "1990127305289801968",
+    "entities": {
+      "mentions": [
+        {
+          "start": 143,
+          "end": 158,
+          "username": "LadiesFootball",
+          "id": "44385241"
+        }
+      ],
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/J7bHRqdaGb",
+          "expanded_url": "https://twitter.com/IndoSport/status/1989986803462352973",
+          "display_url": "x.com/IndoSport/stat\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 104,
+          "end": 115,
+          "probability": 0.9726,
+          "type": "Person",
+          "normalized_text": "Tommy Conlon"
+        },
+        {
+          "start": 255,
+          "end": 258,
+          "probability": 0.5926,
+          "type": "Other",
+          "normalized_text": "LGFA"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989986803462352973"
+      }
+    ],
+    "created_at": "2025-11-16T18:38:19.000Z",
+    "public_metrics": {
+      "retweet_count": 57,
+      "reply_count": 1,
+      "like_count": 199,
+      "quote_count": 4,
+      "bookmark_count": 3,
+      "impression_count": 7854
+    },
+    "id": "1990127305289801968",
+    "author_id": "1791445343218941952",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990123280930337025",
+      "1990127305289801968"
+    ],
+    "text": "\"Unable to make the scientific argument, they had to turn it into a form of ideological terror.\"\nThough Tommy Conlon doesn't directly refer to @LadiesFootball in this article, this phrase struck a chord with us, because it is in this climate of fear that LGFA management not only https://t.co/J7bHRqdaGb"
+  },
+  {
+    "conversation_id": "1989923044136292503",
+    "entities": {
+      "mentions": [
+        {
+          "start": 189,
+          "end": 197,
+          "username": "UNOSAPG",
+          "id": "4267109549"
+        },
+        {
+          "start": 198,
+          "end": 210,
+          "username": "Europarl_EN",
+          "id": "36329597"
+        },
+        {
+          "start": 245,
+          "end": 254,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 54,
+          "end": 60,
+          "tag": "COP30"
+        },
+        {
+          "start": 211,
+          "end": 230,
+          "tag": "AtrocityPrevention"
+        },
+        {
+          "start": 231,
+          "end": 244,
+          "tag": "ClimateTruth"
+        }
+      ],
+      "urls": [
+        {
+          "start": 255,
+          "end": 278,
+          "url": "https://t.co/SIeXw7JdTu",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760386128908341",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 55,
+          "end": 59,
+          "probability": 0.9399,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760386128908341"
+      }
+    ],
+    "created_at": "2025-11-16T05:06:39.000Z",
+    "public_metrics": {
+      "retweet_count": 21,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 178
+    },
+    "id": "1989923044136292503",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989923044136292503"
+    ],
+    "text": "\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f Climate delegates touring reforestation sites at #COP30 should also examine the landscapes where conflict erased both people and ecosystems.\nEnvironmental collapse can be engineered.\n\n@UNOSAPG @Europarl_EN\n#AtrocityPrevention #ClimateTruth @Hili1421 https://t.co/SIeXw7JdTu"
+  },
+  {
+    "conversation_id": "1990175693070877157",
+    "entities": {
+      "mentions": [
+        {
+          "start": 69,
+          "end": 80,
+          "username": "sunriseon7",
+          "id": "18753424"
+        }
+      ],
+      "urls": [
+        {
+          "start": 156,
+          "end": 179,
+          "url": "https://t.co/Y7Oe0Sr6Pc",
+          "expanded_url": "http://liberal.org.au/our-plan/energy",
+          "display_url": "liberal.org.au/our-plan/energy",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989936295888797696/94kW4rbe?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989936295888797696/94kW4rbe?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Our Plan for Affordable Energy and Lower Emissions - Liberal Party of Australia",
+          "description": "Australians deserve affordable energy and responsible emissions reduction. We can do both. But affordable energy must come first.",
+          "unwound_url": "https://www.liberal.org.au/our-plan-for-affordable-energy"
+        },
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/Oq1tPdENy1",
+          "expanded_url": "https://x.com/sussanley/status/1990175693070877157/photo/1",
+          "display_url": "pic.x.com/Oq1tPdENy1",
+          "media_key": "3_1990163044270518272"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T21:50:35.000Z",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 91,
+      "like_count": 23,
+      "quote_count": 14,
+      "bookmark_count": 1,
+      "impression_count": 21568
+    },
+    "id": "1990175693070877157",
+    "author_id": "92862419",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990163454603469237",
+      "1990175693070877157"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990163044270518272"
+      ]
+    },
+    "text": "Speaking about our plan for affordable energy and lower emissions on @sunriseon7 this morning. That is what Australians need, want and deserve.\n\nRead more: https://t.co/Y7Oe0Sr6Pc https://t.co/Oq1tPdENy1"
+  },
+  {
+    "conversation_id": "1990009243798323226",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990001230358233541"
+      }
+    ],
+    "created_at": "2025-11-16T10:49:10.000Z",
+    "public_metrics": {
+      "retweet_count": 89,
+      "reply_count": 29,
+      "like_count": 252,
+      "quote_count": 8,
+      "bookmark_count": 22,
+      "impression_count": 181760
+    },
+    "id": "1990009243798323226",
+    "author_id": "1791692137874014208",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990009243798323226"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990009231819345920"
+      ]
+    },
+    "text": "My Bad he actually sold 4,700 but 4K tickets is still available and the show is today\n\nTickets Update \u2013 Climate Pledge Arena, Seattle, US \ud83c\uddfa\ud83c\uddf8 \n\nCapacity: 8,751\nTickets Sold: 4,724\nTickets Available: 4,027\nPercentage Sold: 53.98%\nEvent Date: Sun \u2022 11/16/2025\nGeneral Sales Started: https://t.co/mSRHHtU6Cs https://t.co/YoLyjEzQaY",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/mSRHHtU6Cs",
+          "expanded_url": "https://x.com/WizStatz/status/1990009243798323226/photo/1",
+          "display_url": "pic.x.com/mSRHHtU6Cs",
+          "media_key": "3_1990009231819345920"
+        },
+        {
+          "start": 304,
+          "end": 327,
+          "url": "https://t.co/YoLyjEzQaY",
+          "expanded_url": "https://twitter.com/wizstatz/status/1990001230358233541",
+          "display_url": "x.com/wizstatz/statu\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 126,
+          "end": 132,
+          "probability": 0.8622,
+          "type": "Place",
+          "normalized_text": "Seattle"
+        },
+        {
+          "start": 135,
+          "end": 136,
+          "probability": 0.8698,
+          "type": "Place",
+          "normalized_text": "US"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989470982579593696",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "ExxAlerts",
+          "id": "727648168171610112"
+        },
+        {
+          "start": 188,
+          "end": 202,
+          "username": "gatewaypundit",
+          "id": "19211550"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 24,
+          "end": 36,
+          "probability": 0.3919,
+          "type": "Person",
+          "normalized_text": "SCOTT FLORIDA"
+        },
+        {
+          "start": 42,
+          "end": 59,
+          "probability": 0.8457,
+          "type": "Person",
+          "normalized_text": "JOHNSON  WISCONSIN"
+        },
+        {
+          "start": 67,
+          "end": 76,
+          "probability": 0.508,
+          "type": "Place",
+          "normalized_text": "CALIFORNIA"
+        },
+        {
+          "start": 174,
+          "end": 181,
+          "probability": 0.9365,
+          "type": "Place",
+          "normalized_text": "COLUMBIA"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989470982579593696"
+      }
+    ],
+    "in_reply_to_user_id": "727648168171610112",
+    "created_at": "2025-11-16T02:23:54.000Z",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 62
+    },
+    "id": "1989882087407849695",
+    "author_id": "1765281943166619648",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989882087407849695"
+    ],
+    "text": "@ExxAlerts US SENATORS  SCOTT FLORIDA AND JOHNSON  WISCONSIN GO TO CALIFORNIA HEAR PACIFIC PALISADES FIRE VICTIMS WHILE GOV NEWSOM OFF TO S. AMERICA CLIMATE CHANGE SUMMIT IN COLUMBIA. PER @GATEWAYPUNDIT"
+  },
+  {
+    "conversation_id": "1989868794123358292",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1988885057696641253"
+      }
+    ],
+    "created_at": "2025-11-16T01:31:05.000Z",
+    "public_metrics": {
+      "retweet_count": 31,
+      "reply_count": 26,
+      "like_count": 147,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 4692
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 81,
+          "end": 85,
+          "tag": "LNP"
+        }
+      ],
+      "urls": [
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/kfmC0OM1eP",
+          "expanded_url": "https://twitter.com/senshenderson/status/1988885057696641253",
+          "display_url": "x.com/senshenderson/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 82,
+          "end": 84,
+          "probability": 0.7608,
+          "type": "Organization",
+          "normalized_text": "LNP"
+        }
+      ]
+    },
+    "id": "1989868794123358292",
+    "author_id": "810282809482944512",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989868794123358292"
+    ],
+    "text": "So glad you\u2019ll never be able to make decisions on climate policy, Senator. \n\nThe #LNP coalition is now unelectable with zero policies. https://t.co/kfmC0OM1eP"
+  },
+  {
+    "conversation_id": "1990189602858991930",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989739583459004686"
+      }
+    ],
+    "created_at": "2025-11-16T22:45:51.000Z",
+    "public_metrics": {
+      "retweet_count": 188,
+      "reply_count": 53,
+      "like_count": 640,
+      "quote_count": 25,
+      "bookmark_count": 193,
+      "impression_count": 72010
+    },
+    "id": "1990189602858991930",
+    "author_id": "1060632416434434049",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990189148540428631",
+      "1990189602858991930"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990189017481068544",
+        "3_1990189031188045824",
+        "3_1990189114285596672"
+      ]
+    },
+    "text": "The most persistent climate scare story over the last two years has been this hypothesis that a vital North Atlantic Ocean current, the Atlantic Multidecadal Overturning Circulation (AMOC), will collapse by the end of the century, if not sooner.\n\nThe implication of this would be https://t.co/hTtCyGpBEZ https://t.co/sHfIATrEzF",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/hTtCyGpBEZ",
+          "expanded_url": "https://x.com/ChrisMartzWX/status/1990189602858991930/photo/1",
+          "display_url": "pic.x.com/hTtCyGpBEZ",
+          "media_key": "3_1990189017481068544"
+        },
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/hTtCyGpBEZ",
+          "expanded_url": "https://x.com/ChrisMartzWX/status/1990189602858991930/photo/1",
+          "display_url": "pic.x.com/hTtCyGpBEZ",
+          "media_key": "3_1990189031188045824"
+        },
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/hTtCyGpBEZ",
+          "expanded_url": "https://x.com/ChrisMartzWX/status/1990189602858991930/photo/1",
+          "display_url": "pic.x.com/hTtCyGpBEZ",
+          "media_key": "3_1990189114285596672"
+        },
+        {
+          "start": 304,
+          "end": 327,
+          "url": "https://t.co/sHfIATrEzF",
+          "expanded_url": "https://twitter.com/Rainmaker1973/status/1989739583459004686",
+          "display_url": "x.com/Rainmaker1973/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 102,
+          "end": 121,
+          "probability": 0.7796,
+          "type": "Place",
+          "normalized_text": "North Atlantic Ocean"
+        },
+        {
+          "start": 136,
+          "end": 168,
+          "probability": 0.4875,
+          "type": "Other",
+          "normalized_text": "Atlantic Multidecadal Overturning"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990067420166254743",
+    "entities": {
+      "mentions": [
+        {
+          "start": 21,
+          "end": 33,
+          "username": "syndicateio",
+          "id": "1298091402975354880"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 96,
+          "end": 101,
+          "tag": "SYND"
+        }
+      ],
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/JUhzAqbGHQ",
+          "expanded_url": "https://x.com/sonilapt/status/1990067420166254743/photo/1",
+          "display_url": "pic.x.com/JUhzAqbGHQ",
+          "media_key": "3_1990066635806228480"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 12,
+          "probability": 0.8486,
+          "type": "Other",
+          "normalized_text": "Commons Chain"
+        },
+        {
+          "start": 97,
+          "end": 100,
+          "probability": 0.5892,
+          "type": "Other",
+          "normalized_text": "SYND"
+        },
+        {
+          "start": 259,
+          "end": 262,
+          "probability": 0.5656,
+          "type": "Other",
+          "normalized_text": "SYND"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T14:40:21.000Z",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 100,
+      "like_count": 81,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 1321
+    },
+    "id": "1990067420166254743",
+    "author_id": "1754554825084121089",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990067420166254743"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990066635806228480"
+      ]
+    },
+    "text": "Commons Chain is the @syndicateio Network dedicated appchain for staking and emissions letting\n\n$SYND holders stake direct emissions and help shape how the network evolves\n\nBuilt on Base for security powered by Smart Sequencers for programmability and \nusing SYND as gas\n\nThe https://t.co/JUhzAqbGHQ"
+  },
+  {
+    "conversation_id": "1990148836258390339",
+    "entities": {
+      "mentions": [
+        {
+          "start": 145,
+          "end": 158,
+          "username": "MultichainZ_",
+          "id": "1574695835685851136"
+        },
+        {
+          "start": 163,
+          "end": 174,
+          "username": "bluwhaleai",
+          "id": "1575258041267925002"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/m8ZEomsH5d",
+          "expanded_url": "https://x.com/Eminweb3/status/1990148836258390339/photo/1",
+          "display_url": "pic.x.com/m8ZEomsH5d",
+          "media_key": "3_1990148822387810304"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/m8ZEomsH5d",
+          "expanded_url": "https://x.com/Eminweb3/status/1990148836258390339/photo/1",
+          "display_url": "pic.x.com/m8ZEomsH5d",
+          "media_key": "3_1990148822396182528"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 3,
+          "probability": 0.4803,
+          "type": "Organization",
+          "normalized_text": "DeFi"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T20:03:52.000Z",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 126,
+      "like_count": 104,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 811
+    },
+    "id": "1990148836258390339",
+    "author_id": "1409024416520970240",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990148836258390339"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990148822387810304",
+        "3_1990148822396182528"
+      ]
+    },
+    "text": "DeFi is finally shifting away from hype and empty emissions, and the projects winning right now are the ones delivering real utility.\nThat\u2019s why @MultichainZ_ and @bluwhaleai fit so well into the same narrative both are building the financial layer crypto has been missing, but https://t.co/m8ZEomsH5d"
+  },
+  {
+    "conversation_id": "1989881667281146121",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989886595760050270"
+      }
+    ],
+    "in_reply_to_user_id": "1388376193",
+    "created_at": "2025-11-16T02:42:50.000Z",
+    "public_metrics": {
+      "retweet_count": 64,
+      "reply_count": 1,
+      "like_count": 250,
+      "quote_count": 3,
+      "bookmark_count": 8,
+      "impression_count": 8752
+    },
+    "id": "1989886852187238768",
+    "author_id": "1388376193",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989886852187238768"
+    ],
+    "text": "The \u201cback to normal\u201d project is about more than covid. You can apply it to climate as well. You can apply it to anything outside the rosy picture our govt paints of neocolonial extractive consumer capitalism, which it pretends can go on existing forever",
+    "entities": {
+      "annotations": [
+        {
+          "start": 48,
+          "end": 52,
+          "probability": 0.9486,
+          "type": "Other",
+          "normalized_text": "covid"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990155738350813494",
+    "entities": {
+      "mentions": [
+        {
+          "start": 253,
+          "end": 264,
+          "username": "BSBIbotany",
+          "id": "913393358"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 237,
+          "end": 252,
+          "tag": "WildflowerHour"
+        }
+      ],
+      "urls": [
+        {
+          "start": 265,
+          "end": 288,
+          "url": "https://t.co/Ub4qZVYSfP",
+          "expanded_url": "https://x.com/Lussas/status/1990155738350813494/photo/1",
+          "display_url": "pic.x.com/Ub4qZVYSfP",
+          "media_key": "3_1990155731979440128"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 7,
+          "probability": 0.4067,
+          "type": "Other",
+          "normalized_text": "Hawthorn"
+        },
+        {
+          "start": 10,
+          "end": 27,
+          "probability": 0.6249,
+          "type": "Other",
+          "normalized_text": "Craetegus monogyna"
+        },
+        {
+          "start": 74,
+          "end": 82,
+          "probability": 0.8754,
+          "type": "Place",
+          "normalized_text": "Lymington"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T20:31:17.000Z",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 2,
+      "like_count": 62,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "impression_count": 2633
+    },
+    "id": "1990155738350813494",
+    "author_id": "252227726",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990155738350813494"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990155731979440128"
+      ]
+    },
+    "text": "Hawthorn (Craetegus monogyna)  with simultaneous fruit and new blossom in Lymington.  Flowers aren\u2019t remnants from spring. This seems to be unseasonal secondary flowering with fresh young flowers &amp; fully ripe haws. Climate -related? #WildflowerHour @BSBIbotany https://t.co/Ub4qZVYSfP"
+  },
+  {
+    "conversation_id": "1989940262420857081",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989925733947642291"
+      }
+    ],
+    "created_at": "2025-11-16T06:15:04.000Z",
+    "public_metrics": {
+      "retweet_count": 34,
+      "reply_count": 6,
+      "like_count": 188,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3812
+    },
+    "id": "1989940262420857081",
+    "author_id": "1892882134597324808",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989940262420857081"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989940253642063872"
+      ]
+    },
+    "text": "7 is real \ud83e\udde1 \n\nBurnaBoy live at Climate pledge arena tonight \u203c\ufe0f https://t.co/m03OaMIC7U https://t.co/MPvCYLrmdn",
+    "entities": {
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/m03OaMIC7U",
+          "expanded_url": "https://x.com/Jay800Big7390/status/1989940262420857081/photo/1",
+          "display_url": "pic.x.com/m03OaMIC7U",
+          "media_key": "3_1989940253642063872"
+        },
+        {
+          "start": 87,
+          "end": 110,
+          "url": "https://t.co/MPvCYLrmdn",
+          "expanded_url": "https://twitter.com/seattlekraken/status/1989925733947642291",
+          "display_url": "x.com/seattlekraken/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 14,
+          "end": 21,
+          "probability": 0.5215,
+          "type": "Other",
+          "normalized_text": "BurnaBoy"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990018969810423829",
+    "entities": {
+      "mentions": [
+        {
+          "start": 28,
+          "end": 40,
+          "username": "syndicateio",
+          "id": "1298091402975354880"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 143,
+          "end": 148,
+          "tag": "SYND"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/cURmsfGiKS",
+          "expanded_url": "https://x.com/0xEkafot/status/1990018969810423829/photo/1",
+          "display_url": "pic.x.com/cURmsfGiKS",
+          "media_key": "3_1990011784695291904"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 144,
+          "end": 147,
+          "probability": 0.6175,
+          "type": "Other",
+          "normalized_text": "SYND"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T11:27:49.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 77,
+      "like_count": 71,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 178
+    },
+    "id": "1990018969810423829",
+    "author_id": "1609802588840689666",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990018969810423829"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990011784695291904"
+      ]
+    },
+    "text": "History shouldn\u2019t expire.  \n@syndicateio lets communities compile permanent ordering vs expiring blobs. Indexers stay fresh, proofs endure.  \n\n$SYND loop:  \n- Stake \u2192 penalize drift  \n- Governance \u2192 add retention rules  \n- Emissions \u2192 reward 30-day uptime  \n\nMy mainnet chain: https://t.co/cURmsfGiKS"
+  },
+  {
+    "conversation_id": "1990102566659625261",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "WallStreetApes",
+          "id": "1099579684981944320"
+        },
+        {
+          "start": 16,
+          "end": 26,
+          "username": "leezeldin",
+          "id": "15874918"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "username": "SecWar",
+          "id": "1883257372740591616"
+        },
+        {
+          "start": 35,
+          "end": 51,
+          "username": "RobertKennedyJr",
+          "id": "337808606"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "username": "POTUS",
+          "id": "1879650942410481666"
+        },
+        {
+          "start": 59,
+          "end": 67,
+          "username": "ODNIgov",
+          "id": "56838279"
+        }
+      ],
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/1ss7yYu107",
+          "expanded_url": "https://x.com/TuckerCarlson/status/1987943338386092141",
+          "display_url": "x.com/TuckerCarlson/\u2026"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1987943338386092141"
+      },
+      {
+        "type": "replied_to",
+        "id": "1990102566659625261"
+      }
+    ],
+    "in_reply_to_user_id": "1099579684981944320",
+    "created_at": "2025-11-16T22:09:39.000Z",
+    "public_metrics": {
+      "retweet_count": 43,
+      "reply_count": 4,
+      "like_count": 58,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "impression_count": 1819
+    },
+    "id": "1990180490960081335",
+    "author_id": "804030095430217729",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990180490960081335"
+    ],
+    "text": "@WallStreetApes @leezeldin @SecWar @RobertKennedyJr @Potus @ODNIgov https://t.co/1ss7yYu107\nWe The People deserve transparency and a whole of govt effort to protect us from foreign and domestic climate engineering threats!"
+  },
+  {
+    "conversation_id": "1990018239599132769",
+    "entities": {
+      "mentions": [
+        {
+          "start": 147,
+          "end": 159,
+          "username": "TimWilsonMP",
+          "id": "20742888"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 270,
+          "end": 277,
+          "tag": "auspol"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/LHEhhzYjxp",
+          "expanded_url": "https://x.com/auspolfiles/status/1990018239599132769/video/1",
+          "display_url": "pic.x.com/LHEhhzYjxp",
+          "media_key": "7_1990018140399636481"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 12,
+          "end": 18,
+          "probability": 0.6777,
+          "type": "Organization",
+          "normalized_text": "Liberal"
+        },
+        {
+          "start": 136,
+          "end": 145,
+          "probability": 0.9457,
+          "type": "Person",
+          "normalized_text": "Tim Wilson"
+        },
+        {
+          "start": 219,
+          "end": 224,
+          "probability": 0.7875,
+          "type": "Person",
+          "normalized_text": "WILSON"
+        },
+        {
+          "start": 271,
+          "end": 276,
+          "probability": 0.6,
+          "type": "Place",
+          "normalized_text": "auspol"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T11:24:55.000Z",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 1,
+      "like_count": 35,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 1114
+    },
+    "id": "1990018239599132769",
+    "author_id": "1749378392238219264",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990018239599132769"
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1990018140399636481"
+      ]
+    },
+    "text": "WHOOPS! The Liberal party agreed as a party room to subsidise coal power plants in their new climate policy.\n\nLiberal \"Moderates\" - Inc Tim Wilson @TimWilsonMP - awkwardly only today realised what they agreed to. \n\nTIM WILSON AGREED TO SUBSIDISING COAL POWER PLANTS \ud83c\udfed\ud83d\udc80\n\n#auspol https://t.co/LHEhhzYjxp"
+  },
+  {
+    "conversation_id": "1989951669514150030",
+    "entities": {
+      "mentions": [
+        {
+          "start": 101,
+          "end": 105,
+          "username": "IEA",
+          "id": "84679163"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 43,
+          "tag": "methane"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/OzbsqhiVzt",
+          "expanded_url": "https://x.com/ember_energy/status/1989951669514150030/photo/1",
+          "display_url": "pic.x.com/OzbsqhiVzt",
+          "media_key": "3_1989951598282285057"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 36,
+          "end": 42,
+          "probability": 0.4144,
+          "type": "Other",
+          "normalized_text": "methane"
+        },
+        {
+          "start": 116,
+          "end": 118,
+          "probability": 0.3654,
+          "type": "Other",
+          "normalized_text": "CMM"
+        },
+        {
+          "start": 193,
+          "end": 195,
+          "probability": 0.4373,
+          "type": "Other",
+          "normalized_text": "CMM"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T07:00:24.000Z",
+    "public_metrics": {
+      "retweet_count": 32,
+      "reply_count": 11,
+      "like_count": 67,
+      "quote_count": 5,
+      "bookmark_count": 17,
+      "impression_count": 3871
+    },
+    "id": "1989951669514150030",
+    "author_id": "1207638939277955072",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989951669514150030"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989951598282285057"
+      ]
+    },
+    "text": "Coal mines emitted ~40mn tonnes of #methane every year, EXCEEDING the global gas sector according to @IEA\n\nTackling CMM is one of the fastest and cheapest ways to slow global heating \ud83c\udf21\ufe0f\u23f3\n\nYet, CMM emissions could be much more than we think, urgently needing better reporting \ud83d\udcdd\ud83d\udea8 https://t.co/OzbsqhiVzt"
+  },
+  {
+    "conversation_id": "1989918403893883200",
+    "entities": {
+      "mentions": [
+        {
+          "start": 198,
+          "end": 205,
+          "username": "UNFCCC",
+          "id": "17463923"
+        },
+        {
+          "start": 206,
+          "end": 214,
+          "username": "IPCC_CH",
+          "id": "192942213"
+        },
+        {
+          "start": 215,
+          "end": 227,
+          "username": "UNEP_Africa",
+          "id": "802176524"
+        },
+        {
+          "start": 257,
+          "end": 266,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 229,
+          "end": 237,
+          "tag": "Ecocide"
+        },
+        {
+          "start": 238,
+          "end": 256,
+          "tag": "ClimateAccounting"
+        }
+      ],
+      "urls": [
+        {
+          "start": 267,
+          "end": 290,
+          "url": "https://t.co/xT173r2eRF",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760371025215737",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 5,
+          "end": 7,
+          "probability": 0.6033,
+          "type": "Other",
+          "normalized_text": "COP"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760371025215737"
+      }
+    ],
+    "created_at": "2025-11-16T04:48:13.000Z",
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 0,
+      "like_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 171
+    },
+    "id": "1989918403893883200",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989918403893883200"
+    ],
+    "text": "\ud83d\udce3 At COP summits we talk about carbon sinks.\nBut in conflict zones, forests become refugee firewood, battlegrounds, or scorched earth.\nThis is the carbon footprint of war &amp; it\u2019s never counted.\n\n@UNFCCC @IPCC_CH @UNEP_Africa \n#Ecocide #ClimateAccounting @Hili1421 https://t.co/xT173r2eRF"
+  },
+  {
+    "conversation_id": "1990025088196833353",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989981925025501642"
+      }
+    ],
+    "created_at": "2025-11-16T11:52:08.000Z",
+    "public_metrics": {
+      "retweet_count": 165,
+      "reply_count": 28,
+      "like_count": 656,
+      "quote_count": 12,
+      "bookmark_count": 25,
+      "impression_count": 31387
+    },
+    "id": "1990025088196833353",
+    "author_id": "1699465660051382272",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990025088196833353"
+    ],
+    "text": "Our municipalities need serious climate adaptation funding. I would argue this is more urgent than funding the energy transition. https://t.co/0jh6IWNIsr",
+    "entities": {
+      "urls": [
+        {
+          "start": 130,
+          "end": 153,
+          "url": "https://t.co/0jh6IWNIsr",
+          "expanded_url": "https://twitter.com/TrafficSA/status/1989981925025501642",
+          "display_url": "x.com/TrafficSA/stat\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990123935510229016",
+    "entities": {
+      "mentions": [
+        {
+          "start": 84,
+          "end": 96,
+          "username": "syndicateio",
+          "id": "1298091402975354880"
+        }
+      ],
+      "urls": [
+        {
+          "start": 238,
+          "end": 261,
+          "url": "https://t.co/flWJ4JSh0M",
+          "expanded_url": "https://x.com/mellyssandraa/status/1990123935510229016/photo/1",
+          "display_url": "pic.x.com/flWJ4JSh0M",
+          "media_key": "3_1990123874621550592"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T18:24:55.000Z",
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 111,
+      "like_count": 106,
+      "quote_count": 0,
+      "bookmark_count": 16,
+      "impression_count": 751
+    },
+    "id": "1990123935510229016",
+    "author_id": "1915214676348329985",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990123935510229016"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990123874621550592"
+      ]
+    },
+    "text": "Ownership only matters if the community can direct something\n\nOn the commons chain, @syndicateio lets stakers decide how emissions move and which appchains get support\n\nA setup where growth comes from the community, not a single operator https://t.co/flWJ4JSh0M"
+  },
+  {
+    "conversation_id": "1989914683512647779",
+    "entities": {
+      "mentions": [
+        {
+          "start": 233,
+          "end": 240,
+          "username": "UNFCCC",
+          "id": "17463923"
+        },
+        {
+          "start": 241,
+          "end": 244,
+          "username": "UN",
+          "id": "14159148"
+        },
+        {
+          "start": 245,
+          "end": 250,
+          "username": "UNEP",
+          "id": "38146999"
+        },
+        {
+          "start": 251,
+          "end": 260,
+          "username": "Hili1421",
+          "id": "1703460454977478656"
+        }
+      ],
+      "urls": [
+        {
+          "start": 261,
+          "end": 284,
+          "url": "https://t.co/Qv5APz9Ihf",
+          "expanded_url": "https://twitter.com/abesalat2025/status/1989760358211592218",
+          "display_url": "x.com/abesalat2025/s\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 5,
+          "end": 9,
+          "probability": 0.9402,
+          "type": "Other",
+          "normalized_text": "COP30"
+        },
+        {
+          "start": 67,
+          "end": 72,
+          "probability": 0.7076,
+          "type": "Place",
+          "normalized_text": "Tigray"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989760358211592218"
+      }
+    ],
+    "created_at": "2025-11-16T04:33:26.000Z",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 0,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 147
+    },
+    "id": "1989914683512647779",
+    "author_id": "1703460454977478656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989914683512647779"
+    ],
+    "text": "\ud83d\udea8 As COP30 meets to discuss climate resilience, let\u2019s remember:\nIn Tigray, forests weren\u2019t lost to \u201cclimate change\u201d \u2014 they were destroyed by war, starvation, displacement, and deliberate deprivation.\nConflict is a climate disaster.\n\n@UNFCCC @UN @UNEP @Hili1421 https://t.co/Qv5APz9Ihf"
+  },
+  {
+    "conversation_id": "1990029792901525807",
+    "entities": {
+      "mentions": [
+        {
+          "start": 84,
+          "end": 97,
+          "username": "MultichainZ_",
+          "id": "1574695835685851136"
+        }
+      ],
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/Uf3tdecjj4",
+          "expanded_url": "https://x.com/Dahgirltrader/status/1990029792901525807/photo/1",
+          "display_url": "pic.x.com/Uf3tdecjj4",
+          "media_key": "3_1990029785595092992"
+        },
+        {
+          "start": 300,
+          "end": 323,
+          "url": "https://t.co/kdtnpH4Bqp",
+          "expanded_url": "https://twitter.com/dahgirltrader/status/1989965189387608476",
+          "display_url": "x.com/dahgirltrader/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 3,
+          "probability": 0.457,
+          "type": "Organization",
+          "normalized_text": "DeFi"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989965189387608476"
+      }
+    ],
+    "created_at": "2025-11-16T12:10:50.000Z",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 88,
+      "like_count": 84,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 1975
+    },
+    "id": "1990029792901525807",
+    "author_id": "1506661253133090827",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990029792901525807"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990029785595092992"
+      ]
+    },
+    "text": "DeFi is evolving from hype and token emissions to real yield and real-world assets. @MultichainZ_ is leading the shift as the first omnichain credit protocol letting you borrow against yield-bearing assets across multiple chains without using a bridge.\n\nYour collateral keeps https://t.co/Uf3tdecjj4 https://t.co/kdtnpH4Bqp"
+  },
+  {
+    "conversation_id": "1989954047034671362",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989944239841845512"
+      }
+    ],
+    "created_at": "2025-11-16T07:09:51.000Z",
+    "public_metrics": {
+      "retweet_count": 323,
+      "reply_count": 142,
+      "like_count": 1169,
+      "quote_count": 16,
+      "bookmark_count": 19,
+      "impression_count": 28020
+    },
+    "id": "1989954047034671362",
+    "author_id": "27382158",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989954047034671362"
+    ],
+    "text": "OMFG. The LNP\u2019s plan to cut emissions is literally \u201ctechnology TBC.\u201d \n\nThey can\u2019t name it, can\u2019t describe it, and it currently lives only in the same universe as unicorns.\n\nAt this point, they might as well promise to slash aviation emissions using warp portals.. https://t.co/VuHZ09JOXy",
+    "entities": {
+      "urls": [
+        {
+          "start": 264,
+          "end": 287,
+          "url": "https://t.co/VuHZ09JOXy",
+          "expanded_url": "https://twitter.com/strangerous10/status/1989944239841845512",
+          "display_url": "x.com/strangerous10/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 10,
+          "end": 12,
+          "probability": 0.8122,
+          "type": "Organization",
+          "normalized_text": "LNP"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "probability": 0.4758,
+          "type": "Other",
+          "normalized_text": "TBC"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989945712348680556",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989944239841845512"
+      }
+    ],
+    "created_at": "2025-11-16T06:36:43.000Z",
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 1,
+      "like_count": 63,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 1282
+    },
+    "id": "1989945712348680556",
+    "author_id": "2987518710",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989945712348680556"
+    ],
+    "text": "David Littleproud (stunned by the question) \u2026 Emissions??? https://t.co/inZA4Q8fGx",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/inZA4Q8fGx",
+          "expanded_url": "https://twitter.com/strangerous10/status/1989944239841845512",
+          "display_url": "x.com/strangerous10/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 16,
+          "probability": 0.9705,
+          "type": "Person",
+          "normalized_text": "David Littleproud"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990142561504370863",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "maxstephhh",
+          "id": "1793452863781552128"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990142561504370863"
+      }
+    ],
+    "in_reply_to_user_id": "1793452863781552128",
+    "created_at": "2025-11-16T23:22:03.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 324,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16216
+    },
+    "id": "1990198709817065827",
+    "author_id": "66500998",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990198709817065827"
+    ],
+    "text": "@maxstephhh he had no energy left. need those redbull wings for tap ins and penalties."
+  },
+  {
+    "conversation_id": "1989834130448937283",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "SeeRacists",
+          "id": "1795874174059040769"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989834130448937283"
+      }
+    ],
+    "in_reply_to_user_id": "1795874174059040769",
+    "created_at": "2025-11-16T12:38:31.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 30,
+      "like_count": 82,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5614
+    },
+    "id": "1990036762509418595",
+    "author_id": "1015004659948367877",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990036762509418595"
+    ],
+    "text": "@SeeRacists Y\u2019all reaching with this. The teacher saw a person in the bathroom he\u2019d never seen before and asked who he was. Considering the climate of events happening at American high schools I don\u2019t think he was wrong. Bro could\u2019ve just said \u201cyeah I\u2019m the sub in room whatever\u201d"
+  },
+  {
+    "conversation_id": "1989973735240339814",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989724428842746297"
+      }
+    ],
+    "created_at": "2025-11-16T08:28:05.000Z",
+    "public_metrics": {
+      "retweet_count": 140,
+      "reply_count": 39,
+      "like_count": 505,
+      "quote_count": 13,
+      "bookmark_count": 16,
+      "impression_count": 14161
+    },
+    "id": "1989973735240339814",
+    "author_id": "211371719",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989973735240339814"
+    ],
+    "text": "210 from the UK. \n\nAustralia sent 494. \n\nhttps://t.co/hDIT7gvXZ6 https://t.co/oPu0kXbyT9",
+    "entities": {
+      "urls": [
+        {
+          "start": 41,
+          "end": 64,
+          "url": "https://t.co/hDIT7gvXZ6",
+          "expanded_url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop30/",
+          "display_url": "carbonbrief.org/analysis-which\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1988259249001013248/j0QRyxB7?format=jpg&name=orig",
+              "width": 1550,
+              "height": 1033
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1988259249001013248/j0QRyxB7?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Analysis: Which countries have sent the most delegates to COP30? - Carbon Brief",
+          "description": "According to the provisional figures, 193 countries, plus the European Union, have registered a delegation for the COP30 summit.",
+          "unwound_url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop30/"
+        },
+        {
+          "start": 65,
+          "end": 88,
+          "url": "https://t.co/oPu0kXbyT9",
+          "expanded_url": "https://twitter.com/Artemisfornow/status/1989724428842746297",
+          "display_url": "x.com/Artemisfornow/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 13,
+          "end": 14,
+          "probability": 0.9816,
+          "type": "Place",
+          "normalized_text": "UK"
+        },
+        {
+          "start": 19,
+          "end": 27,
+          "probability": 0.988,
+          "type": "Place",
+          "normalized_text": "Australia"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990013295643021651",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990011235304358210"
+      }
+    ],
+    "created_at": "2025-11-16T11:05:16.000Z",
+    "public_metrics": {
+      "retweet_count": 420,
+      "reply_count": 456,
+      "like_count": 3304,
+      "quote_count": 22,
+      "bookmark_count": 52,
+      "impression_count": 99986
+    },
+    "id": "1990013295643021651",
+    "author_id": "1394637195533856770",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990013295643021651"
+    ],
+    "text": "Ah yes, centuries of climate data, global temperature records, and extreme weather trends\u2026 all cancelled out by one guy clearing a drain on his street. Science is saved. https://t.co/NLjUNpkWVu",
+    "entities": {
+      "urls": [
+        {
+          "start": 170,
+          "end": 193,
+          "url": "https://t.co/NLjUNpkWVu",
+          "expanded_url": "https://twitter.com/NotFarLeftAtAll/status/1990011235304358210",
+          "display_url": "x.com/NotFarLeftAtAl\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989892502074069239",
+    "entities": {
+      "mentions": [
+        {
+          "start": 34,
+          "end": 48,
+          "username": "AyebareDenise",
+          "id": "1203581961413021699"
+        }
+      ],
+      "urls": [
+        {
+          "start": 284,
+          "end": 307,
+          "url": "https://t.co/02iEOJr59Z",
+          "expanded_url": "https://x.com/YouthDiplomatUG/status/1989892502074069239/photo/1",
+          "display_url": "pic.x.com/02iEOJr59Z",
+          "media_key": "3_1989892490250379264"
+        },
+        {
+          "start": 284,
+          "end": 307,
+          "url": "https://t.co/02iEOJr59Z",
+          "expanded_url": "https://x.com/YouthDiplomatUG/status/1989892502074069239/photo/1",
+          "display_url": "pic.x.com/02iEOJr59Z",
+          "media_key": "3_1989892490267176960"
+        },
+        {
+          "start": 284,
+          "end": 307,
+          "url": "https://t.co/02iEOJr59Z",
+          "expanded_url": "https://x.com/YouthDiplomatUG/status/1989892502074069239/photo/1",
+          "display_url": "pic.x.com/02iEOJr59Z",
+          "media_key": "3_1989892490237734912"
+        },
+        {
+          "start": 284,
+          "end": 307,
+          "url": "https://t.co/02iEOJr59Z",
+          "expanded_url": "https://x.com/YouthDiplomatUG/status/1989892502074069239/photo/1",
+          "display_url": "pic.x.com/02iEOJr59Z",
+          "media_key": "3_1989892490258706432"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 3,
+          "end": 7,
+          "probability": 0.8031,
+          "type": "Place",
+          "normalized_text": "Dakar"
+        },
+        {
+          "start": 117,
+          "end": 132,
+          "probability": 0.5057,
+          "type": "Other",
+          "normalized_text": "Solutions Campus"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T03:05:17.000Z",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 70,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1294
+    },
+    "id": "1989892502074069239",
+    "author_id": "1975066104562130944",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989892502074069239"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989892490250379264",
+        "3_1989892490267176960",
+        "3_1989892490237734912",
+        "3_1989892490258706432"
+      ]
+    },
+    "text": "In Dakar \ud83c\uddf8\ud83c\uddf3, the Youth Ambassador @AyebareDenise ,joined leaders from 28 African &amp; SE Asian nations at the Local Solutions Campus 2025. She spoke about local climate &amp; health innovations and reinforced a shared truth: those closest to the problem are closest to the solution. https://t.co/02iEOJr59Z"
+  },
+  {
+    "conversation_id": "1990167764514869585",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1987513255908999498"
+      }
+    ],
+    "created_at": "2025-11-16T21:19:05.000Z",
+    "public_metrics": {
+      "retweet_count": 80,
+      "reply_count": 26,
+      "like_count": 254,
+      "quote_count": 2,
+      "bookmark_count": 27,
+      "impression_count": 16727
+    },
+    "id": "1990167764514869585",
+    "author_id": "401775393",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990167764514869585"
+    ],
+    "text": "Good climate news this week\n1 China: CO2 emissions flat or falling for 18 months\n2 China: EVs account 51.6% of new auto sales in October, a new record\n3 China: renewables capacity hits 1,889GW in 2024, 56% of total\n4 UK: 200,000 solar installations added to household rooftops so https://t.co/BeY6AjBZsZ",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/BeY6AjBZsZ",
+          "expanded_url": "https://twitter.com/AssaadRazzouk/status/1987513255908999498",
+          "display_url": "x.com/AssaadRazzouk/\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 30,
+          "end": 34,
+          "probability": 0.9798,
+          "type": "Place",
+          "normalized_text": "China"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "probability": 0.5598,
+          "type": "Other",
+          "normalized_text": "CO2"
+        },
+        {
+          "start": 83,
+          "end": 87,
+          "probability": 0.9586,
+          "type": "Place",
+          "normalized_text": "China"
+        },
+        {
+          "start": 153,
+          "end": 157,
+          "probability": 0.9742,
+          "type": "Place",
+          "normalized_text": "China"
+        },
+        {
+          "start": 217,
+          "end": 218,
+          "probability": 0.9368,
+          "type": "Place",
+          "normalized_text": "UK"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990118800470286733",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "spencerpratt",
+          "id": "23395456"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/8qSf8r9TaQ",
+          "expanded_url": "https://x.com/MAPAForce/status/1990157571756531907/video/1",
+          "display_url": "pic.x.com/8qSf8r9TaQ",
+          "media_key": "13_1990157515384832000"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990118800470286733"
+      }
+    ],
+    "in_reply_to_user_id": "23395456",
+    "created_at": "2025-11-16T20:38:35.000Z",
+    "public_metrics": {
+      "retweet_count": 27,
+      "reply_count": 6,
+      "like_count": 135,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "impression_count": 9246
+    },
+    "id": "1990157571756531907",
+    "author_id": "349444018",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990157571756531907"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990157515384832000"
+      ]
+    },
+    "text": "@spencerpratt But\u2026 but\u2026 but it\u2019s climate changes fault! https://t.co/8qSf8r9TaQ"
+  },
+  {
+    "conversation_id": "1990082185576018405",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990082185576018405"
+      }
+    ],
+    "in_reply_to_user_id": "253998571",
+    "created_at": "2025-11-16T15:59:40.000Z",
+    "public_metrics": {
+      "retweet_count": 55,
+      "reply_count": 5,
+      "like_count": 132,
+      "quote_count": 1,
+      "bookmark_count": 12,
+      "impression_count": 6470
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 250,
+          "end": 255,
+          "tag": "AMOC"
+        }
+      ],
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/fckxDy5eqy",
+          "expanded_url": "https://www.arctictoday.com/iceland-sees-security-risk-existential-threat-in-atlantic-ocean-currents-possible-collapse/",
+          "display_url": "arctictoday.com/iceland-sees-s\u2026",
+          "status": 200,
+          "title": "Iceland sees security risk, existential threat in Atlantic Ocean current's possible collapse - ArcticToday",
+          "description": "Iceland has designated the potential collapse of a major Atlantic Ocean current system a national security concern and an existential threat, enabling its government to strategize for worst-case scenarios, the country\u2019s climate minister told Reuters. The Atlantic Meridional Overturning Circulation, or AMOC, current brings warm water from the tropics northward toward the Arctic, and the...",
+          "unwound_url": "https://www.arctictoday.com/iceland-sees-security-risk-existential-threat-in-atlantic-ocean-currents-possible-collapse/"
+        },
+        {
+          "start": 270,
+          "end": 293,
+          "url": "https://t.co/iaWsVMvQR2",
+          "expanded_url": "https://x.com/rahmstorf/status/1990087380955496782/photo/1",
+          "display_url": "pic.x.com/iaWsVMvQR2",
+          "media_key": "3_1990087358746607616"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 6,
+          "probability": 0.934,
+          "type": "Place",
+          "normalized_text": "Iceland"
+        },
+        {
+          "start": 119,
+          "end": 125,
+          "probability": 0.8805,
+          "type": "Place",
+          "normalized_text": "Germany"
+        },
+        {
+          "start": 188,
+          "end": 194,
+          "probability": 0.4459,
+          "type": "Other",
+          "normalized_text": "Climate"
+        },
+        {
+          "start": 251,
+          "end": 254,
+          "probability": 0.5518,
+          "type": "Organization",
+          "normalized_text": "AMOC"
+        }
+      ]
+    },
+    "id": "1990087380955496782",
+    "author_id": "253998571",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990087380955496782"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990087358746607616"
+      ]
+    },
+    "text": "Iceland now considers this a national security threat. https://t.co/fckxDy5eqy\nAnd the Foreign Intelligence Service of Germany together with other German institutions published a National Climate Risk Assessment this year.\nHere is what it says about #AMOC tipping risk. https://t.co/iaWsVMvQR2"
+  },
+  {
+    "conversation_id": "1990046444091490329",
+    "entities": {
+      "mentions": [
+        {
+          "start": 16,
+          "end": 27,
+          "username": "nikitabier",
+          "id": "636513296"
+        }
+      ],
+      "urls": [
+        {
+          "start": 207,
+          "end": 230,
+          "url": "https://t.co/8wW0YQ1FGV",
+          "expanded_url": "https://x.com/volcaholic1/status/1990046444091490329/photo/1",
+          "display_url": "pic.x.com/8wW0YQ1FGV",
+          "media_key": "3_1990045666861600768"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 162,
+          "end": 163,
+          "probability": 0.9036,
+          "type": "Place",
+          "normalized_text": "US"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T13:17:00.000Z",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 13,
+      "like_count": 91,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 9645
+    },
+    "id": "1990046444091490329",
+    "author_id": "1394637195533856770",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990046278458450213",
+      "1990046444091490329"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990045666861600768"
+      ]
+    },
+    "text": "I don't know if @nikitabier is being sarcastic here (you can never tell).\n\nI would welcome this to tackle the bots/paid climate change deniers. They usually have US, British, Australian flags in their bios. https://t.co/8wW0YQ1FGV"
+  },
+  {
+    "conversation_id": "1989851920367034520",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989796377556353416"
+      }
+    ],
+    "created_at": "2025-11-16T00:24:02.000Z",
+    "public_metrics": {
+      "retweet_count": 26,
+      "reply_count": 0,
+      "like_count": 153,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "impression_count": 3804
+    },
+    "id": "1989851920367034520",
+    "author_id": "2573713418",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989851920367034520"
+    ],
+    "text": "Says a lot about the current economic climate when honest, hard working clowns are forced into a life of crime https://t.co/mDBliptngZ",
+    "entities": {
+      "urls": [
+        {
+          "start": 111,
+          "end": 134,
+          "url": "https://t.co/mDBliptngZ",
+          "expanded_url": "https://twitter.com/FearedBuck/status/1989796377556353416",
+          "display_url": "x.com/FearedBuck/sta\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989739410691371352",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "KatrinaViannaXX",
+          "id": "994700426942398464"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989739410691371352"
+      }
+    ],
+    "in_reply_to_user_id": "994700426942398464",
+    "created_at": "2025-11-16T06:28:16.000Z",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 2,
+      "like_count": 76,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 214
+    },
+    "id": "1989943585400393899",
+    "author_id": "1961109299209588736",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989943585400393899"
+    ],
+    "text": "@KatrinaViannaXX Climate awareness"
+  },
+  {
+    "conversation_id": "1990125532298543477",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "SidneyPowell1",
+          "id": "586707638"
+        },
+        {
+          "start": 15,
+          "end": 31,
+          "username": "realDonaldTrump",
+          "id": "25073877"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "username": "leezeldin",
+          "id": "15874918"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 64,
+          "end": 66,
+          "probability": 0.3681,
+          "type": "Organization",
+          "normalized_text": "SAI"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "probability": 0.9135,
+          "type": "Organization",
+          "normalized_text": "EPA"
+        },
+        {
+          "start": 83,
+          "end": 92,
+          "probability": 0.9335,
+          "type": "Person",
+          "normalized_text": "Lee Zeldin"
+        },
+        {
+          "start": 113,
+          "end": 119,
+          "probability": 0.4975,
+          "type": "Other",
+          "normalized_text": "Climate"
+        },
+        {
+          "start": 175,
+          "end": 186,
+          "probability": 0.8253,
+          "type": "Other",
+          "normalized_text": "Amazon Prime"
+        },
+        {
+          "start": 189,
+          "end": 195,
+          "probability": 0.9668,
+          "type": "Place",
+          "normalized_text": "Florida"
+        },
+        {
+          "start": 201,
+          "end": 209,
+          "probability": 0.9145,
+          "type": "Place",
+          "normalized_text": "Tennessee"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990125532298543477"
+      }
+    ],
+    "in_reply_to_user_id": "586707638",
+    "created_at": "2025-11-16T23:39:56.000Z",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 2,
+      "like_count": 37,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 1685
+    },
+    "id": "1990203213203546477",
+    "author_id": "1362462615599910912",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990203213203546477"
+    ],
+    "text": "@SidneyPowell1 @realDonaldTrump @leezeldin Geoengineering, like SAI, is real\u2014EPA's Lee Zeldin confirmed it, and \"Climate Trails\" (2025) exposes the truth with 1.2M viewers on Amazon Prime. Florida and Tennessee have banned it, yet the DOD's 2026 budget funds $15.4 BILLION for related research. Join \"Reclaim Our Skies\" to"
+  },
+  {
+    "conversation_id": "1990020523544248545",
+    "entities": {
+      "mentions": [
+        {
+          "start": 100,
+          "end": 116,
+          "username": "ConvenerNatureP",
+          "id": "2253805046"
+        },
+        {
+          "start": 118,
+          "end": 128,
+          "username": "esepezeta",
+          "id": "363193262"
+        },
+        {
+          "start": 130,
+          "end": 145,
+          "username": "CarlosECorreaE",
+          "id": "266296328"
+        },
+        {
+          "start": 152,
+          "end": 162,
+          "username": "gemissima",
+          "id": "239453319"
+        }
+      ],
+      "urls": [
+        {
+          "start": 269,
+          "end": 292,
+          "url": "https://t.co/5jMapxUDDU",
+          "expanded_url": "https://x.com/WeDontHaveTime/status/1990020523544248545/video/1",
+          "display_url": "pic.x.com/5jMapxUDDU",
+          "media_key": "13_1989966940891410432"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 2,
+          "end": 13,
+          "probability": 0.7456,
+          "type": "Other",
+          "normalized_text": "COP30 Nature"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T11:34:00.000Z",
+    "public_metrics": {
+      "retweet_count": 26,
+      "reply_count": 3,
+      "like_count": 66,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "impression_count": 86558
+    },
+    "id": "1990020523544248545",
+    "author_id": "800285348261556224",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990020523544248545"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1989966940891410432"
+      ]
+    },
+    "text": "\ud83c\udf3f COP30 Nature Positive Dialogues explored how to halt &amp; reverse nature loss by 2030. Panelists @ConvenerNatureP, @esepezeta, @carlosecorreae &amp; @gemissima shared insights on turning global ambition into action for nature, climate &amp; people. Watch on demand. https://t.co/5jMapxUDDU"
+  },
+  {
+    "conversation_id": "1989948798529863779",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989627277789786327"
+      }
+    ],
+    "created_at": "2025-11-16T06:48:59.000Z",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 5,
+      "like_count": 80,
+      "quote_count": 1,
+      "bookmark_count": 7,
+      "impression_count": 3555
+    },
+    "id": "1989948798529863779",
+    "author_id": "153540615",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989948798529863779"
+    ],
+    "text": "We DO NOT need to have a strong voice in Global Climate Change conversations. The day a climate change cashivist can tell me what all former occupants of earth for thousands of generations did to ensure climate change did not affect us, is when I will start listening. \n\nThe FG https://t.co/6yLsU5wYIi",
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/6yLsU5wYIi",
+          "expanded_url": "https://twitter.com/PeterObi/status/1989627277789786327",
+          "display_url": "x.com/PeterObi/statu\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 61,
+          "probability": 0.5083,
+          "type": "Other",
+          "normalized_text": "Climate Change"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990185132016415022",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989683404577689679"
+      }
+    ],
+    "created_at": "2025-11-16T22:28:05.000Z",
+    "public_metrics": {
+      "retweet_count": 125,
+      "reply_count": 36,
+      "like_count": 571,
+      "quote_count": 6,
+      "bookmark_count": 9,
+      "impression_count": 29190
+    },
+    "id": "1990185132016415022",
+    "author_id": "17893558",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990185132016415022"
+    ],
+    "text": "Lincoln, you endorsed Zohran Mamdani, the same guy who built a political machine with groups that spent months demonizing Jews and looking the other way while NYC\u2019s antisemitic climate exploded. But sure, post-incident cleanup by Sanitation will fix the problem. Maybe start by https://t.co/tVm5ND7nW5",
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/tVm5ND7nW5",
+          "expanded_url": "https://twitter.com/lincolnrestler/status/1989683404577689679",
+          "display_url": "x.com/lincolnrestler\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 6,
+          "probability": 0.5872,
+          "type": "Person",
+          "normalized_text": "Lincoln"
+        },
+        {
+          "start": 22,
+          "end": 35,
+          "probability": 0.9491,
+          "type": "Person",
+          "normalized_text": "Zohran Mamdani"
+        },
+        {
+          "start": 159,
+          "end": 161,
+          "probability": 0.9255,
+          "type": "Place",
+          "normalized_text": "NYC"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989927993767039134",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989868213148999888"
+      }
+    ],
+    "created_at": "2025-11-16T05:26:19.000Z",
+    "public_metrics": {
+      "retweet_count": 138,
+      "reply_count": 11,
+      "like_count": 823,
+      "quote_count": 1,
+      "bookmark_count": 58,
+      "impression_count": 16467
+    },
+    "id": "1989927993767039134",
+    "author_id": "1183768598906654722",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989927993767039134"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989927990092861440"
+      ]
+    },
+    "text": "Also \u201cwe are lovers during a very dangerous time\u201d made me wanna cry. Yes I tend to make wrestling storylines into things bigger than they\u2019re usually intended but this line struck me very deeply given today\u2019s climate \ud83e\udd72 https://t.co/Vf6GmSx1ZG https://t.co/bhVD1FrP49",
+    "entities": {
+      "urls": [
+        {
+          "start": 218,
+          "end": 241,
+          "url": "https://t.co/Vf6GmSx1ZG",
+          "expanded_url": "https://x.com/lizzyflanagan/status/1989927993767039134/photo/1",
+          "display_url": "pic.x.com/Vf6GmSx1ZG",
+          "media_key": "3_1989927990092861440"
+        },
+        {
+          "start": 242,
+          "end": 265,
+          "url": "https://t.co/bhVD1FrP49",
+          "expanded_url": "https://twitter.com/lizzyflanagan/status/1989868213148999888",
+          "display_url": "x.com/lizzyflanagan/\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990142398509338756",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990147184340488696"
+      }
+    ],
+    "in_reply_to_user_id": "1299445153338359808",
+    "created_at": "2025-11-16T19:59:36.000Z",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 1,
+      "like_count": 29,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 518
+    },
+    "id": "1990147764676612469",
+    "author_id": "1299445153338359808",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990147764676612469"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990147580173418496",
+        "13_1990147580190167040"
+      ]
+    },
+    "text": "Heal the World emotes the climate of unrest and children suffering.  One of the few he doesn\u2019t appear in short film, which is such a valuable point to ensure focus communicated vulnerability &amp; concept of healing. \n\nConveys message of love, unity and global responsibility with https://t.co/rNs978auBn",
+    "entities": {
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/rNs978auBn",
+          "expanded_url": "https://x.com/academiccatt/status/1990147764676612469/video/1",
+          "display_url": "pic.x.com/rNs978auBn",
+          "media_key": "13_1990147580173418496"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/rNs978auBn",
+          "expanded_url": "https://x.com/academiccatt/status/1990147764676612469/video/1",
+          "display_url": "pic.x.com/rNs978auBn",
+          "media_key": "13_1990147580190167040"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989895158612299885",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "elonmusk",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/PWBQnK1tS1",
+          "expanded_url": "https://x.com/Neon_on_X/status/1989896063017214100/video/1",
+          "display_url": "pic.x.com/PWBQnK1tS1",
+          "media_key": "13_1989895950018453504"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 25,
+          "end": 28,
+          "probability": 0.3903,
+          "type": "Other",
+          "normalized_text": "Grok"
+        },
+        {
+          "start": 59,
+          "end": 67,
+          "probability": 0.8468,
+          "type": "Other",
+          "normalized_text": "The Spark"
+        },
+        {
+          "start": 94,
+          "end": 102,
+          "probability": 0.9192,
+          "type": "Person",
+          "normalized_text": "Elon musk"
+        },
+        {
+          "start": 183,
+          "end": 185,
+          "probability": 0.5214,
+          "type": "Other",
+          "normalized_text": "The"
+        },
+        {
+          "start": 228,
+          "end": 236,
+          "probability": 0.6368,
+          "type": "Other",
+          "normalized_text": "The Spark"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989895158612299885"
+      }
+    ],
+    "in_reply_to_user_id": "44196397",
+    "created_at": "2025-11-16T03:19:26.000Z",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 6,
+      "like_count": 41,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 3434
+    },
+    "id": "1989896063017214100",
+    "author_id": "1841443612892000256",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989896063017214100"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1989895950018453504"
+      ]
+    },
+    "text": "@elonmusk I\u2019m at putting Grok through its paces lately. \n\n\u201cThe Spark\u201d is what the robots call Elon musk \u2014 spoken with a micro-pause of reverence in synthesized voice, the way we say \u201cThe Prophet.\u201d Example usage:\n\n\u201cIn the age of The Spark, carbon was king. Now silicon reigns.\u201d https://t.co/PWBQnK1tS1"
+  },
+  {
+    "conversation_id": "1989828833458209256",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DerrickEvans4WV",
+          "id": "1849134537827037184"
+        }
+      ],
+      "urls": [
+        {
+          "start": 65,
+          "end": 88,
+          "url": "https://t.co/uwDYbi5FPG",
+          "expanded_url": "https://youtu.be/rf78rEAJvhY?si=2jIyTanQb2cZVoWi",
+          "display_url": "youtu.be/rf78rEAJvhY?si\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989832935068110851/QacoNUin?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989832935068110851/QacoNUin?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "The Dimming, Full Length Climate Engineering Documentary ( Geoengineering Watch )",
+          "description": "https://www.GeoengineeringWatch.orgTo support Geoengineering Watch: http://www.geoengineeringwatch.org/support/Contact us: Dane Wigington, P.O. Box 9, Bella ...",
+          "unwound_url": "https://www.youtube.com/watch?si=2jIyTanQb2cZVoWi&v=rf78rEAJvhY&feature=youtu.be"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989828833458209256"
+      }
+    ],
+    "in_reply_to_user_id": "1849134537827037184",
+    "created_at": "2025-11-16T01:15:40.000Z",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 2,
+      "like_count": 49,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "impression_count": 1305
+    },
+    "id": "1989864914706465109",
+    "author_id": "1649935571400228870",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989864914706465109"
+    ],
+    "text": "@DerrickEvans4WV Don't piss on my back and tell me its raining .\nhttps://t.co/uwDYbi5FPG"
+  },
+  {
+    "conversation_id": "1990084127446409423",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990057540676108669"
+      }
+    ],
+    "created_at": "2025-11-16T15:46:44.000Z",
+    "public_metrics": {
+      "retweet_count": 255,
+      "reply_count": 72,
+      "like_count": 867,
+      "quote_count": 17,
+      "bookmark_count": 98,
+      "impression_count": 45620
+    },
+    "id": "1990084127446409423",
+    "author_id": "54399803",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990084127446409423"
+    ],
+    "text": "Excellent statement from Jim Hansen re COP30.  CO2 emissions targets are a failure, time to focus on adaptation.  What I've been saying for two decades, used to get you labelled as a 'denier' https://t.co/Dn5J90nACt",
+    "entities": {
+      "urls": [
+        {
+          "start": 192,
+          "end": 215,
+          "url": "https://t.co/Dn5J90nACt",
+          "expanded_url": "https://twitter.com/wattsupwiththat/status/1990057540676108669",
+          "display_url": "x.com/wattsupwiththa\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 25,
+          "end": 34,
+          "probability": 0.9788,
+          "type": "Person",
+          "normalized_text": "Jim Hansen"
+        },
+        {
+          "start": 39,
+          "end": 43,
+          "probability": 0.8179,
+          "type": "Other",
+          "normalized_text": "COP30"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "probability": 0.7017,
+          "type": "Other",
+          "normalized_text": "CO2"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990190644761948649",
+    "entities": {
+      "mentions": [
+        {
+          "start": 85,
+          "end": 96,
+          "username": "solsticefi",
+          "id": "1813260868357865472"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/OaujjGRQFG",
+          "expanded_url": "https://x.com/jackyang36/status/1990190644761948649/photo/1",
+          "display_url": "pic.x.com/OaujjGRQFG",
+          "media_key": "3_1990033929278312450"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 139,
+          "end": 141,
+          "probability": 0.3417,
+          "type": "Organization",
+          "normalized_text": "usx"
+        },
+        {
+          "start": 158,
+          "end": 161,
+          "probability": 0.505,
+          "type": "Other",
+          "normalized_text": "eusx"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T22:50:00.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 158,
+      "like_count": 117,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 335
+    },
+    "id": "1990190644761948649",
+    "author_id": "1651741152570408961",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990190644761948649"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990033929278312450"
+      ]
+    },
+    "text": "funny how most stable farms still hide volatility behind emissions  then you look at @solsticefi and it\u2019s just clean, verifiable cashflow. usx holds the peg, eusx grows in the background, delta-neutral vaults haven\u2019t had a red month in years, and the mmpp brings in pro market https://t.co/OaujjGRQFG"
+  },
+  {
+    "conversation_id": "1990056932888187086",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "elonmusk",
+          "id": "44196397"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 88,
+          "end": 90,
+          "probability": 0.3817,
+          "type": "Organization",
+          "normalized_text": "UBI"
+        },
+        {
+          "start": 159,
+          "end": 165,
+          "probability": 0.7966,
+          "type": "Person",
+          "normalized_text": "Lucifer"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990056932888187086"
+      }
+    ],
+    "in_reply_to_user_id": "44196397",
+    "created_at": "2025-11-16T14:00:30.000Z",
+    "public_metrics": {
+      "retweet_count": 79,
+      "reply_count": 30,
+      "like_count": 840,
+      "quote_count": 3,
+      "bookmark_count": 13,
+      "impression_count": 12196
+    },
+    "id": "1990057393439543333",
+    "author_id": "813695790",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990057393439543333"
+    ],
+    "text": "@elonmusk We know you support the global scientific dictatorship.\nFrom carbon taxes, to UBI, to brain chip implants.\n\nYou are a Trojan Horse like no other.\nIf Lucifer could have spawned a demon in human form, you'd be it."
+  },
+  {
+    "conversation_id": "1990146256958886192",
+    "entities": {
+      "mentions": [
+        {
+          "start": 157,
+          "end": 165,
+          "username": "FoEScot",
+          "id": "57636902"
+        },
+        {
+          "start": 166,
+          "end": 174,
+          "username": "ggectee",
+          "id": "1717148658104193024"
+        }
+      ],
+      "urls": [
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/RSmlin6uwV",
+          "expanded_url": "https://x.com/arorapranjal157/status/1990146256958886192/photo/1",
+          "display_url": "pic.x.com/RSmlin6uwV",
+          "media_key": "3_1990146238558474240"
+        },
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/RSmlin6uwV",
+          "expanded_url": "https://x.com/arorapranjal157/status/1990146256958886192/photo/1",
+          "display_url": "pic.x.com/RSmlin6uwV",
+          "media_key": "3_1990146238894022656"
+        },
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/RSmlin6uwV",
+          "expanded_url": "https://x.com/arorapranjal157/status/1990146256958886192/photo/1",
+          "display_url": "pic.x.com/RSmlin6uwV",
+          "media_key": "3_1990146239888019456"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 50,
+          "end": 57,
+          "probability": 0.9151,
+          "type": "Organization",
+          "normalized_text": "Scotland"
+        },
+        {
+          "start": 69,
+          "end": 73,
+          "probability": 0.4859,
+          "type": "Other",
+          "normalized_text": "March"
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "probability": 0.9819,
+          "type": "Place",
+          "normalized_text": "Glasgow"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T19:53:37.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 50
+    },
+    "id": "1990146256958886192",
+    "author_id": "1946528811459411968",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990146256958886192"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990146238558474240",
+        "3_1990146238894022656",
+        "3_1990146239888019456"
+      ]
+    },
+    "text": "A tremendous display of unity and common cause at Scotland\u2019s Climate March in Glasgow. \n\nSaturday 15 November 2025\n\nEND THE ECOCIDE \ud83c\udf0e\nSTOP THE GENOCIDE \ud83c\uddf5\ud83c\uddf8 \n\n@FoEScot @ggectee https://t.co/RSmlin6uwV"
+  },
+  {
+    "conversation_id": "1989898882457727266",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "mrsmandyh08",
+          "id": "21887828"
+        },
+        {
+          "start": 13,
+          "end": 29,
+          "username": "TiedWithASwiftE",
+          "id": "1832241857142616064"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1990104948651253940"
+      }
+    ],
+    "in_reply_to_user_id": "4826620809",
+    "created_at": "2025-11-16T17:11:02.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 8,
+      "like_count": 2,
+      "quote_count": 6,
+      "bookmark_count": 0,
+      "impression_count": 8400
+    },
+    "id": "1990105343188509119",
+    "author_id": "4826620809",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990105343188509119"
+    ],
+    "text": "@mrsmandyh08 @TiedWithASwiftE of accolades, which she is throwing away in this song for a traditional patriarchal relationship\nb) how strange this is in the current political climate of trying to reduce the autonomy of woman for the biggest pop singer to talk about how she would give up her career for a man"
+  },
+  {
+    "conversation_id": "1990140432349577541",
+    "entities": {
+      "mentions": [
+        {
+          "start": 142,
+          "end": 154,
+          "username": "Y4Cofficial",
+          "id": "1237760376051249153"
+        },
+        {
+          "start": 155,
+          "end": 171,
+          "username": "UNDP_RomeCentre",
+          "id": "1597037619082592257"
+        }
+      ],
+      "urls": [
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/hrbD5jLLAA",
+          "expanded_url": "https://x.com/tsevett7776/status/1990140432349577541/photo/1",
+          "display_url": "pic.x.com/hrbD5jLLAA",
+          "media_key": "3_1990140408223907841"
+        },
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/hrbD5jLLAA",
+          "expanded_url": "https://x.com/tsevett7776/status/1990140432349577541/photo/1",
+          "display_url": "pic.x.com/hrbD5jLLAA",
+          "media_key": "3_1990140410786652160"
+        },
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/hrbD5jLLAA",
+          "expanded_url": "https://x.com/tsevett7776/status/1990140432349577541/photo/1",
+          "display_url": "pic.x.com/hrbD5jLLAA",
+          "media_key": "3_1990140410757283841"
+        },
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/hrbD5jLLAA",
+          "expanded_url": "https://x.com/tsevett7776/status/1990140432349577541/photo/1",
+          "display_url": "pic.x.com/hrbD5jLLAA",
+          "media_key": "3_1990140408370753537"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 26,
+          "end": 38,
+          "probability": 0.5046,
+          "type": "Other",
+          "normalized_text": "Amisi village"
+        },
+        {
+          "start": 41,
+          "end": 60,
+          "probability": 0.6979,
+          "type": "Other",
+          "normalized_text": "Tsevett Agroservices"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T19:30:28.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "id": "1990140432349577541",
+    "author_id": "1920535354249027584",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990140432349577541"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990140408223907841",
+        "3_1990140410786652160",
+        "3_1990140410757283841",
+        "3_1990140408370753537"
+      ]
+    },
+    "text": "Training women farmers in Amisi village! Tsevett Agroservices promotes agroforestry and climate-smart tech for resilient farming communities. @Y4Cofficial @UNDP_RomeCentre https://t.co/hrbD5jLLAA"
+  },
+  {
+    "conversation_id": "1990052930809172374",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989902168686825564"
+      }
+    ],
+    "created_at": "2025-11-16T13:42:46.000Z",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 4,
+      "like_count": 69,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 4453
+    },
+    "id": "1990052930809172374",
+    "author_id": "1321022346363363333",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990052930809172374"
+    ],
+    "text": "As Russia arms to the teeth. Of course he\u2019s pro empire.  Russian bombs, destroy cities make people less safe and poorer. But he\u2019ll never say that because he\u2019s pro war if it\u2019s Russia.  As for climate crisis doubt Russian oil tankers barely fit for sea are good for the planet. https://t.co/Ghp4l3uIE6",
+    "entities": {
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/Ghp4l3uIE6",
+          "expanded_url": "https://twitter.com/wallacemick/status/1989902168686825564",
+          "display_url": "x.com/wallacemick/st\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 3,
+          "end": 8,
+          "probability": 0.9539,
+          "type": "Place",
+          "normalized_text": "Russia"
+        },
+        {
+          "start": 175,
+          "end": 180,
+          "probability": 0.9624,
+          "type": "Place",
+          "normalized_text": "Russia"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989879577779605681",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989879577779605681"
+      }
+    ],
+    "in_reply_to_user_id": "702608032845451264",
+    "created_at": "2025-11-16T02:14:26.000Z",
+    "public_metrics": {
+      "retweet_count": 38,
+      "reply_count": 2,
+      "like_count": 85,
+      "quote_count": 5,
+      "bookmark_count": 13,
+      "impression_count": 2187
+    },
+    "id": "1989879703398965413",
+    "author_id": "702608032845451264",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989879703398965413"
+    ],
+    "text": "Must view, THE DIMMING, the most comprehensive climate engineering documentary:\nhttps://t.co/8WspvuJ4M4",
+    "entities": {
+      "urls": [
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/8WspvuJ4M4",
+          "expanded_url": "https://rumble.com/v5kcj59-the-dimming.html?e9s=src_v1_ucp_f",
+          "display_url": "rumble.com/v5kcj59-the-di\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989288753924579328/U4820dBH?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989288753924579328/U4820dBH?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "The Dimming: Exposing The Climate Engineering Cover-Up",
+          "description": "https://www.GeoengineeringWatch.org To support Geoengineering Watch: http://www.geoengineeringwatch.org/support/ Contact us: Dane Wigington, P.O. Box 9, Bella Vista, CA, 96008 Due to numerous requests",
+          "unwound_url": "https://rumble.com/v5kcj59-the-dimming.html?e9s=src_v1_ucp_f"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 11,
+          "end": 21,
+          "probability": 0.912,
+          "type": "Other",
+          "normalized_text": "THE DIMMING"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990072366454477260",
+    "entities": {
+      "mentions": [
+        {
+          "start": 152,
+          "end": 162,
+          "username": "CanadaDev",
+          "id": "104532480"
+        },
+        {
+          "start": 163,
+          "end": 179,
+          "username": "EU_Partnerships",
+          "id": "19722343"
+        },
+        {
+          "start": 180,
+          "end": 187,
+          "username": "AFD_en",
+          "id": "783726610621075456"
+        },
+        {
+          "start": 188,
+          "end": 202,
+          "username": "cidcaofficial",
+          "id": "1236602774474772481"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 14,
+          "tag": "ClimateCrisis"
+        },
+        {
+          "start": 17,
+          "end": 33,
+          "tag": "EducationCrisis"
+        },
+        {
+          "start": 36,
+          "end": 54,
+          "tag": "HumanRightsCrisis"
+        },
+        {
+          "start": 57,
+          "end": 70,
+          "tag": "GlobalCrisis"
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "tag": "COP30"
+        },
+        {
+          "start": 137,
+          "end": 151,
+          "tag": "KeepHopeAlive"
+        },
+        {
+          "start": 203,
+          "end": 220,
+          "tag": "222MillionDreams"
+        }
+      ],
+      "urls": [
+        {
+          "start": 223,
+          "end": 246,
+          "url": "https://t.co/PBD5vS6gao",
+          "expanded_url": "https://x.com/KentPage/status/1990072366454477260/photo/1",
+          "display_url": "pic.x.com/PBD5vS6gao",
+          "media_key": "3_1987980970432110592"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 73,
+          "end": 77,
+          "probability": 0.8056,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T15:00:00.000Z",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 2,
+      "like_count": 29,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 716
+    },
+    "id": "1990072366454477260",
+    "author_id": "24290265",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990072366454477260"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1987980970432110592"
+      ]
+    },
+    "text": "#ClimateCrisis =\n#EducationCrisis =\n#HumanRightsCrisis =\n#GlobalCrisis\n\n#COP30 Please retweet if you agree: Climate action cannot wait.\n\n#KeepHopeAlive @CanadaDev @EU_Partnerships @AFD_En @CidcaOfficial #222MillionDreams\u2728\ud83d\udcda https://t.co/PBD5vS6gao"
+  },
+  {
+    "conversation_id": "1990200580258873389",
+    "entities": {
+      "mentions": [
+        {
+          "start": 86,
+          "end": 98,
+          "username": "GavinNewsom",
+          "id": "11347122"
+        }
+      ],
+      "urls": [
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/wpkOhFau1q",
+          "expanded_url": "https://dailycaller.com/2025/11/16/opinion-climate-has-a-new-head-clown-steve-milloy/",
+          "display_url": "dailycaller.com/2025/11/16/opi\u2026",
+          "status": 200,
+          "title": "STEVE MILLOY: Climate Has A New Head Clown",
+          "description": "Move over, Al Gore. The climate clown car has a new self-anointed driver. His name is Gavin Newsom.",
+          "unwound_url": "https://dailycaller.com/2025/11/16/opinion-climate-has-a-new-head-clown-steve-milloy/"
+        },
+        {
+          "start": 125,
+          "end": 148,
+          "url": "https://t.co/gKhcn1CUuo",
+          "expanded_url": "https://x.com/JunkScience/status/1990200580258873389/photo/1",
+          "display_url": "pic.x.com/gKhcn1CUuo",
+          "media_key": "3_1990200419184705536"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 11,
+          "end": 17,
+          "probability": 0.8389,
+          "type": "Person",
+          "normalized_text": "Al Gore"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T23:29:29.000Z",
+    "public_metrics": {
+      "retweet_count": 40,
+      "reply_count": 8,
+      "like_count": 189,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "impression_count": 8117
+    },
+    "id": "1990200580258873389",
+    "author_id": "21150492",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990200580258873389"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990200419184705536"
+      ]
+    },
+    "text": "Move over, Al Gore. The climate clown car has a new self-anointed driver. His name is @GavinNewsom.\n\nhttps://t.co/wpkOhFau1q https://t.co/gKhcn1CUuo"
+  },
+  {
+    "conversation_id": "1989861840986198353",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "digijordan",
+          "id": "390188598"
+        }
+      ],
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/NhvAuqohIy",
+          "expanded_url": "https://x.com/b_gimpl1234/status/1989932173344829448/photo/1",
+          "display_url": "pic.x.com/NhvAuqohIy",
+          "media_key": "3_1989932171058900993"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989861840986198353"
+      }
+    ],
+    "in_reply_to_user_id": "390188598",
+    "created_at": "2025-11-16T05:42:55.000Z",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 6,
+      "like_count": 49,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 1612
+    },
+    "id": "1989932173344829448",
+    "author_id": "1843659927027372032",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989932173344829448"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989932171058900993"
+      ]
+    },
+    "text": "@digijordan Yup, been saying this awhile now, some strange things going on up there along with climate engineering https://t.co/NhvAuqohIy"
+  },
+  {
+    "conversation_id": "1990095078279315662",
+    "entities": {
+      "mentions": [
+        {
+          "start": 58,
+          "end": 74,
+          "username": "JirasanOfficial",
+          "id": "1792046695637032960"
+        }
+      ],
+      "urls": [
+        {
+          "start": 243,
+          "end": 266,
+          "url": "https://t.co/v75jsrHswB",
+          "expanded_url": "https://x.com/sproutlyrwa/status/1990095078279315662/photo/1",
+          "display_url": "pic.x.com/v75jsrHswB",
+          "media_key": "3_1990095075230011392"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 7,
+          "probability": 0.56,
+          "type": "Other",
+          "normalized_text": "Jirafams"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "probability": 0.6993,
+          "type": "Other",
+          "normalized_text": "NFTree"
+        },
+        {
+          "start": 88,
+          "end": 93,
+          "probability": 0.6763,
+          "type": "Other",
+          "normalized_text": "NFTree"
+        },
+        {
+          "start": 127,
+          "end": 132,
+          "probability": 0.5077,
+          "type": "Organization",
+          "normalized_text": "Amazon"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T16:30:15.000Z",
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 14,
+      "like_count": 38,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 2277
+    },
+    "id": "1990095078279315662",
+    "author_id": "1588465931180810240",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990095078279315662"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990095075230011392"
+      ]
+    },
+    "text": "Jirafams, \n\nSproutly NFTree airdrop is now live for every @JirasanOfficial member! Each NFTree is backed by a real tree in the Amazon rainforest, producing carbon debits to help offset your footprint. Submit your wallet to secure eligibility. https://t.co/v75jsrHswB"
+  },
+  {
+    "conversation_id": "1989953782088954074",
+    "entities": {
+      "mentions": [
+        {
+          "start": 97,
+          "end": 109,
+          "username": "X1_EcoChain",
+          "id": "1808466578318544896"
+        }
+      ],
+      "urls": [
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/y9hXAOIYvX",
+          "expanded_url": "https://x.com/gasfees4days/status/1989953782088954074/photo/1",
+          "display_url": "pic.x.com/y9hXAOIYvX",
+          "media_key": "3_1989953766481936384"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 1,
+          "end": 10,
+          "probability": 0.4942,
+          "type": "Other",
+          "normalized_text": "Blockchain"
+        },
+        {
+          "start": 187,
+          "end": 193,
+          "probability": 0.4915,
+          "type": "Other",
+          "normalized_text": "X1Nodes"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T07:08:47.000Z",
+    "public_metrics": {
+      "retweet_count": 32,
+      "reply_count": 22,
+      "like_count": 104,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10478
+    },
+    "id": "1989953782088954074",
+    "author_id": "1967213240989233152",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989953782088954074"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1989953766481936384"
+      ]
+    },
+    "text": "\u201cBlockchain for good\u201d is usually a slogan, a glossy wrapper on tech that still burns megawatts.\n\n@X1_EcoChain is the rare project that turns impact into infrastructure, not marketing:\n\n\u2705 X1Nodes track carbon savings automatically\nEach low-power node logs how much energy it https://t.co/y9hXAOIYvX"
+  },
+  {
+    "conversation_id": "1989926738755834053",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "iluminatibot",
+          "id": "3376321847"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989926738755834053"
+      }
+    ],
+    "in_reply_to_user_id": "3376321847",
+    "created_at": "2025-11-16T05:26:56.000Z",
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 4,
+      "like_count": 104,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 2016
+    },
+    "id": "1989928149212434502",
+    "author_id": "1358974224996569094",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989928149212434502"
+    ],
+    "text": "@iluminatibot Because the \u201cgreen revolution\u201d was never about saving the planet, it\u2019s about control and optics. They roll out electric buses charged by diesel generators to sell the illusion of progress while doubling energy profits. It\u2019s the same psyop as carbon credits, tax the air while"
+  },
+  {
+    "conversation_id": "1989902168686825564",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989665624566767724"
+      }
+    ],
+    "created_at": "2025-11-16T03:43:42.000Z",
+    "public_metrics": {
+      "retweet_count": 53,
+      "reply_count": 11,
+      "like_count": 192,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 13566
+    },
+    "id": "1989902168686825564",
+    "author_id": "248801998",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989902168686825564"
+    ],
+    "text": "\"Militarisation makes us poorer + less safe amid Climate Crisis\" - Let's work for Peace instead of War... https://t.co/RcggGaK734",
+    "entities": {
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/RcggGaK734",
+          "expanded_url": "https://twitter.com/PBresnihan/status/1989665624566767724",
+          "display_url": "x.com/PBresnihan/sta\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990099483128971649",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "rubindesigns",
+          "id": "787308513068453888"
+        }
+      ],
+      "urls": [
+        {
+          "start": 92,
+          "end": 115,
+          "url": "https://t.co/8VC3mtOABj",
+          "expanded_url": "https://twitter.com/wideawake_media/status/1986747020057379066",
+          "display_url": "x.com/wideawake_medi\u2026"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1986747020057379066"
+      },
+      {
+        "type": "replied_to",
+        "id": "1990199841008538022"
+      }
+    ],
+    "in_reply_to_user_id": "787308513068453888",
+    "created_at": "2025-11-16T23:37:04.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 6,
+      "like_count": 56,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 2933
+    },
+    "id": "1990202488796885027",
+    "author_id": "553036368",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990202488796885027"
+    ],
+    "text": "@rubindesigns Sure buddy. I know how much you climate nuts hope for the worst. Why is that? https://t.co/8VC3mtOABj"
+  },
+  {
+    "conversation_id": "1990097461491175603",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1990086730284687756"
+      }
+    ],
+    "created_at": "2025-11-16T16:39:43.000Z",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 29,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 905
+    },
+    "id": "1990097461491175603",
+    "author_id": "1561785781169147905",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990097461491175603"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1990096219276746752"
+      ]
+    },
+    "text": "Throwback to when Burna Boy performed \"Normal\"\ud83c\udfb5 in the Climate pledge Arena\ud83c\udfdf\ufe0f in 2023 -- The venue he is performing in Tonight!. https://t.co/MwcbnwKTh3 https://t.co/PE1i5bCOLh",
+    "entities": {
+      "urls": [
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/MwcbnwKTh3",
+          "expanded_url": "https://x.com/SHAD7G_/status/1990097461491175603/video/1",
+          "display_url": "pic.x.com/MwcbnwKTh3",
+          "media_key": "13_1990096219276746752"
+        },
+        {
+          "start": 153,
+          "end": 176,
+          "url": "https://t.co/PE1i5bCOLh",
+          "expanded_url": "https://twitter.com/SHAD7G_/status/1990086730284687756",
+          "display_url": "x.com/SHAD7G_/status\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 18,
+          "end": 26,
+          "probability": 0.7185,
+          "type": "Other",
+          "normalized_text": "Burna Boy"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "probability": 0.7515,
+          "type": "Other",
+          "normalized_text": "Normal"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "probability": 0.3783,
+          "type": "Other",
+          "normalized_text": "Climate"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1990123024889102363",
+    "entities": {
+      "mentions": [
+        {
+          "start": 214,
+          "end": 229,
+          "username": "wardenprotocol",
+          "id": "1748006726010310657"
+        },
+        {
+          "start": 230,
+          "end": 240,
+          "username": "wallchain",
+          "id": "1487817777813594112"
+        },
+        {
+          "start": 241,
+          "end": 249,
+          "username": "KaitoAI",
+          "id": "1522696492791869445"
+        }
+      ],
+      "urls": [
+        {
+          "start": 250,
+          "end": 273,
+          "url": "https://t.co/oKrtLcaLDq",
+          "expanded_url": "https://x.com/DrapGam/status/1990123024889102363/photo/1",
+          "display_url": "pic.x.com/oKrtLcaLDq",
+          "media_key": "3_1990122855447617536"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 3,
+          "probability": 0.5666,
+          "type": "Other",
+          "normalized_text": "WARD"
+        },
+        {
+          "start": 120,
+          "end": 122,
+          "probability": 0.5503,
+          "type": "Other",
+          "normalized_text": "PoS"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T18:21:18.000Z",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 17,
+      "like_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 375
+    },
+    "id": "1990123024889102363",
+    "author_id": "1483479705714102275",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990123024889102363"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990122855447617536"
+      ]
+    },
+    "text": "WARD\u2019s total supply is 1,000,000,000 WARD.On \nmainnet launch (PoA),there are zero emissions,but \nonce it transitions to PoS,emissions will dynamically\n adjust between 1%\u201310% annually depending on \nstaking levels.\n\n@wardenprotocol\n@wallchain\n@KaitoAI https://t.co/oKrtLcaLDq"
+  },
+  {
+    "conversation_id": "1989973351440470354",
+    "entities": {
+      "mentions": [
+        {
+          "start": 184,
+          "end": 190,
+          "username": "Iromg",
+          "id": "207739658"
+        }
+      ],
+      "urls": [
+        {
+          "start": 258,
+          "end": 281,
+          "url": "https://t.co/jJrZVyt59E",
+          "expanded_url": "https://www.statsjamie.co.uk/p/bbc-misleads-again-job-losses-rise",
+          "display_url": "statsjamie.co.uk/p/bbc-misleads\u2026",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1989973354502303744/Vb-x_ChM?format=jpg&name=orig",
+              "width": 1600,
+              "height": 800
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1989973354502303744/Vb-x_ChM?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "BBC Misleads Again, Job Losses Rise and Reeves Running Out of Road",
+          "description": "From another BBC scandal to deepening job losses and a worsening pre-Budget outlook, the numbers tell a bleak story.",
+          "unwound_url": "https://www.statsjamie.co.uk/p/bbc-misleads-again-job-losses-rise"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 2,
+          "end": 4,
+          "probability": 0.8741,
+          "type": "Organization",
+          "normalized_text": "BBC"
+        },
+        {
+          "start": 145,
+          "end": 146,
+          "probability": 0.6073,
+          "type": "Place",
+          "normalized_text": "UK"
+        },
+        {
+          "start": 171,
+          "end": 181,
+          "probability": 0.89,
+          "type": "Person",
+          "normalized_text": "Mike Graham"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T08:26:33.000Z",
+    "public_metrics": {
+      "retweet_count": 65,
+      "reply_count": 3,
+      "like_count": 169,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "impression_count": 9842
+    },
+    "id": "1989973351440470354",
+    "author_id": "101447362",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989973351440470354"
+    ],
+    "text": "\ud83d\udea8 BBC Misleads Again, Job Losses Rise &amp; Reeves Running Out of Road\n\n\ud83d\udca5 BBC Covid spin &amp; climate propaganda \n\ud83d\udca5 170k fewer people in work\n\ud83d\udca5 UK Economy in decline  \n\ud83d\udca5 Mike Graham (@Iromg ) begins a huge new independent chapter\n\n\ud83d\udc47 Read Stat Of The Nation https://t.co/jJrZVyt59E"
+  },
+  {
+    "conversation_id": "1990057265345503375",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "daouda_ndiaye_",
+          "id": "872222137830035457"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 217,
+          "end": 237,
+          "tag": "SindhPeoplesHousing"
+        },
+        {
+          "start": 238,
+          "end": 244,
+          "tag": "COP30"
+        },
+        {
+          "start": 245,
+          "end": 250,
+          "tag": "IsDB"
+        }
+      ],
+      "urls": [
+        {
+          "start": 251,
+          "end": 274,
+          "url": "https://t.co/nU6A1K7Drs",
+          "expanded_url": "https://x.com/SphfOfficial/status/1990057265345503375/photo/1",
+          "display_url": "pic.x.com/nU6A1K7Drs",
+          "media_key": "3_1990000904435875840"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 23,
+          "end": 26,
+          "probability": 0.4772,
+          "type": "Other",
+          "normalized_text": "IsDB"
+        },
+        {
+          "start": 42,
+          "end": 45,
+          "probability": 0.5703,
+          "type": "Other",
+          "normalized_text": "SPHF"
+        },
+        {
+          "start": 58,
+          "end": 62,
+          "probability": 0.7795,
+          "type": "Other",
+          "normalized_text": "COP30"
+        },
+        {
+          "start": 64,
+          "end": 69,
+          "probability": 0.9318,
+          "type": "Place",
+          "normalized_text": "Brazil"
+        },
+        {
+          "start": 239,
+          "end": 243,
+          "probability": 0.7543,
+          "type": "Other",
+          "normalized_text": "COP30"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T14:00:00.000Z",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 0,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 160
+    },
+    "id": "1990057265345503375",
+    "author_id": "1607257342550183936",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990057265345503375"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990000904435875840"
+      ]
+    },
+    "text": "Dr.@daouda_ndiaye_  of IsDB will join the SPHF session at COP30 Brazil. With 20+ years in climate finance and adaptation, he brings strong expertise in resilience, environmental policy, and global climate solutions.\n\n#SindhPeoplesHousing #COP30 #IsDB https://t.co/nU6A1K7Drs"
+  },
+  {
+    "conversation_id": "1990012125255758327",
+    "entities": {
+      "mentions": [
+        {
+          "start": 130,
+          "end": 141,
+          "username": "solsticefi",
+          "id": "1813260868357865472"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/9AI1JNLedp",
+          "expanded_url": "https://x.com/dabsurdweb3/status/1990012125255758327/photo/1",
+          "display_url": "pic.x.com/9AI1JNLedp",
+          "media_key": "3_1990012108067512320"
+        }
+      ]
+    },
+    "created_at": "2025-11-16T11:00:37.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 74,
+      "like_count": 78,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1496
+    },
+    "id": "1990012125255758327",
+    "author_id": "1488483152486191105",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990012125255758327"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1990012108067512320"
+      ]
+    },
+    "text": "Yeaah, seen a lot of noise today about the market cooling off after the latest macro prints and honestly it changed how i look at @solsticefi this week \ud83e\udd76\n\nI checked again and rates staying higher for longer means passive capital needs a place that doesn\u2019t rely on emissions or https://t.co/9AI1JNLedp"
+  },
+  {
+    "conversation_id": "1990163954169966726",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1989715465829069165"
+      }
+    ],
+    "created_at": "2025-11-16T21:03:56.000Z",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 8,
+      "like_count": 70,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 2894
+    },
+    "id": "1990163954169966726",
+    "author_id": "313294350",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1990163954169966726"
+    ],
+    "text": "Tipping points are fear mongering nonsense, especially from the greens. \nDuring the 2015 Paris climate conferences, I personally witnessed German greens and French greens celebrated their joint campaign success that France agreed to reduce its nuclear to 50% by year 2030. Yes, https://t.co/tLDv2b9fXw",
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/tLDv2b9fXw",
+          "expanded_url": "https://twitter.com/rahmstorf/status/1989715465829069165",
+          "display_url": "x.com/rahmstorf/stat\u2026"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 89,
+          "end": 93,
+          "probability": 0.8071,
+          "type": "Place",
+          "normalized_text": "Paris"
+        },
+        {
+          "start": 216,
+          "end": 221,
+          "probability": 0.9776,
+          "type": "Place",
+          "normalized_text": "France"
+        }
+      ]
+    }
+  },
+  {
+    "conversation_id": "1989831007604744372",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "JasmineForUS",
+          "id": "918913624395079680"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 31,
+          "end": 33,
+          "probability": 0.6243,
+          "type": "Person",
+          "normalized_text": "MTG"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989831007604744372"
+      }
+    ],
+    "in_reply_to_user_id": "918913624395079680",
+    "created_at": "2025-11-16T01:57:58.000Z",
+    "public_metrics": {
+      "retweet_count": 28,
+      "reply_count": 2,
+      "like_count": 352,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "impression_count": 4654
+    },
+    "id": "1989875560797933636",
+    "author_id": "1744504619030470656",
+    "lang": "en",
+    "edit_history_tweet_ids": [
+      "1989875560797933636"
+    ],
+    "text": "@JasmineForUS It\u2019s wild to see MTG suddenly call out the danger of political hate when she\u2019s spent years amplifying lies and fueling the same environment. What she\u2019s dealing with is wrong, absolutely. But it\u2019s also hard to ignore how much she contributed to the climate she\u2019s now afraid of."
   }
 ]
