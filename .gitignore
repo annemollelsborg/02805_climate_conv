@@ -1,3 +1,36 @@
+# Environment files
 .env
-data/tweet_embeddings.npy
-networks/climate_tweet_network.gexf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (raw and processed)
+data/*.npy
+data/*.csv
+data/*.json
+data/*.txt
+
+# Allow small CSVs if needed (uncomment to whitelist)
+# !data/twitter_sentiment_data.csv
+
+# Large network exports
+networks/*.gexf
+networks/*.graphml
+networks/*.gpickle
+
+# Embeddings and ML artifacts
+*.npy
+*.npz
+*.pkl
+*.pt
+*.model
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS noise
+.DS_Store
