@@ -36,7 +36,7 @@ print("Embeddings shape:", embeddings.shape)
 
 # Build nearest neighbor structure
 k = 50                    # neighbors per node
-THRESHOLD = 0.8          # cosine similarity threshold
+THRESHOLD = 0.85          # cosine similarity threshold
 
 print("Computing pairwise cosine similarities...")
 
