@@ -7,7 +7,7 @@ import networkx as nx
 from sklearn.neighbors import NearestNeighbors
 from openai import OpenAI
 
-df = pd.read_csv("/Users/ame/02805_climate_conv/data/twitter_sentiment_data.csv",
+df = pd.read_csv("/Users/ame/02805_climate_conv/data/cleaned_twitter_sentiment_data.csv",
                  encoding="latin1",
                  on_bad_lines="skip")
 
