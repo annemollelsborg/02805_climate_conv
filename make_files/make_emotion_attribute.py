@@ -1,15 +1,22 @@
+import os
+import sys
 import networkx as nx
 import pandas as pd
 import numpy as np
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if PROJECT_ROOT not in sys.path:
+    sys.path.append(PROJECT_ROOT)
+
 import help_files.get_emotions as get_emotions
 
 
 # Load graph
-G = nx.read_gexf("/Users/ame/02805_climate_conv/networks/climate_tweet_network.gexf")
+G = nx.read_gexf("/Users/ame/02805_climate_conv/networks/climate_tweet_network_with_embeddings_sub.gexf")
 print("Graph loaded from file")
 
 # Load cleaned tweet data
-df = pd.read_csv("/Users/ame/02805_climate_conv/data/cleaned_twitter_sentiment_data.csv")
+df = pd.read_csv("/Users/ame/02805_climate_conv/data/cleaned_twitter_embedded_data.csv")
 print("Cleaned tweet data loaded")
 
 # Work with ALL nodes; only filter by character limit later
@@ -46,5 +53,5 @@ nx.set_node_attributes(G, emotion_attr, "emotion")
 nx.set_node_attributes(G, emotion_probs_attr, "emotion_probs")
 
 # Save the new graph with emotion attributes to file
-nx.write_gexf(G, "/Users/ame/02805_climate_conv/networks/climate_tweet_network_with_emotions.gexf")
+nx.write_gexf(G, "/Users/ame/02805_climate_conv/networks/climate_tweet_network_embeddings_emotions.gexf")
 print("Graph with emotions saved to file")

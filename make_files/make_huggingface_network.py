@@ -35,8 +35,8 @@ embeddings = np.vstack(df["embeddings"].to_numpy())
 print("Embeddings shape:", embeddings.shape)
 
 # Build nearest neighbor structure
-k = 50                    # neighbors per node
-THRESHOLD = 0.85          # cosine similarity threshold
+k = 10                     # neighbors per node (reduced from 50)
+THRESHOLD = 0.85           # cosine similarity threshold (adjusted)
 
 print("Computing pairwise cosine similarities...")
 
