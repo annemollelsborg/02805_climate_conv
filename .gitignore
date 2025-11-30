@@ -34,3 +34,6 @@ networks/*.gpickle
 
 # MacOS noise
 .DS_Store
+
+# HPC
+crawl.sh
